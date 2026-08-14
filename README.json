@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "description": "A notable feature was added in v0.4.0 release. This means you can now use custom indexes of your own to install the plugins via .\nWas you plugin not accepted in default due to some reasons? No issues, you can still use that plugin manifest in your custom index and install it via krew.\nNow, is not just a list of awesome kubectl plugins (without any centralised control), you can actually use this to add your own plugins like you did for and install them locally. :rocket:\nNote: This does not mean you can install plugins without a valid for your plugin. You still need to have a plugin manifest.",
+      "items": [],
+      "title": "Use as a Custom Index via Krew"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "kubectl Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "collection of kubectl plugins",
+          "description": "A Collection of Plugins for kubectl Integration (context switching, ssh / exec as any user, etc).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2024-06-27T06:00:21Z",
+            "owner": "jordanwilson230",
+            "repo": "kubectl-plugins",
+            "stars": 636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-extras mini plugins",
+          "description": "A collection of mini plugins for kubectl.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2020-01-10T20:50:17Z",
+            "owner": "ahmetb",
+            "repo": "kubectl-extras",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "collection - kubectl plugins",
+          "description": "A list of plugins that enhance the kubectl CLI",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-12-15T16:29:00Z",
+            "owner": "FikaWorks",
+            "repo": "kubectl-plugins",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-everything",
+          "description": "Various kubectl plugins to make life easier",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-02-08T15:59:19Z",
+            "owner": "PeterGrace",
+            "repo": "kubectl-everything",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "collection - kubectl plugins",
+          "description": "These be collection of kubectl plugins!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-03-10T14:44:11Z",
+            "owner": "ripta",
+            "repo": "kubectl-plugins",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "collection - kubectl plugins",
+          "description": "It is a set of kubectl plugins.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-04-24T13:32:42Z",
+            "owner": "thobiast",
+            "repo": "kubectl-plugins",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Collection of kubectl plugins"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-14T00:00:28.709Z",
+    "original_repository": "ishantanu/awesome-kubectl-plugins",
+    "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
+    "enhanced_repository": "enhansome/enhansome-kubectl-plugins",
+    "enhanced_repository_description": null,
+    "title": "awesome-kubectl-plugins with stars"
+  }
+}
