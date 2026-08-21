@@ -32,7 +32,7 @@
                 "last_commit": "2020-01-10T20:50:17Z",
                 "owner": "ahmetb",
                 "repo": "kubectl-extras",
-                "stars": 116
+                "stars": 114
               }
             },
             {
@@ -105,7 +105,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T23:41:59.459Z",
+    "last_updated": "2026-08-21T23:41:17.190Z",
     "original_repository": "ishantanu/awesome-kubectl-plugins",
     "original_repository_id": 207302304,
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
