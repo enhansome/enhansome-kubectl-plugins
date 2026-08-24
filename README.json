@@ -4,6 +4,3141 @@
       "description": null,
       "items": [
         {
+          "node_type": "item",
+          "title": "rakkess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172054938,
+            "language": "Go",
+            "last_commit": "2023-04-05T05:00:24Z",
+            "owner": "corneliusweig",
+            "repo": "rakkess",
+            "stars": 1400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rakkess",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172054938,
+            "language": "Go",
+            "last_commit": "2023-04-05T05:00:24Z",
+            "owner": "corneliusweig",
+            "repo": "rakkess",
+            "stars": 1400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-who-can",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175985633,
+            "language": "Go",
+            "last_commit": "2024-07-17T11:59:27Z",
+            "owner": "aquasecurity",
+            "repo": "kubectl-who-can",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-who-can",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175985633,
+            "language": "Go",
+            "last_commit": "2024-07-17T11:59:27Z",
+            "owner": "aquasecurity",
+            "repo": "kubectl-who-can",
+            "stars": 917
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-neat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198226595,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:37:08Z",
+            "owner": "itaysk",
+            "repo": "kubectl-neat",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-neat",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198226595,
+            "language": "Go",
+            "last_commit": "2025-12-05T02:37:08Z",
+            "owner": "itaysk",
+            "repo": "kubectl-neat",
+            "stars": 2099
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ksort",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117810202,
+            "language": "Go",
+            "last_commit": "2024-05-29T02:34:28Z",
+            "owner": "superbrothers",
+            "repo": "ksort",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ksort",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117810202,
+            "language": "Go",
+            "last_commit": "2024-05-29T02:34:28Z",
+            "owner": "superbrothers",
+            "repo": "ksort",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-debug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162127381,
+            "language": "Go",
+            "last_commit": "2023-10-19T02:52:57Z",
+            "owner": "aylei",
+            "repo": "kubectl-debug",
+            "stars": 2302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-debug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162127381,
+            "language": "Go",
+            "last_commit": "2023-10-19T02:52:57Z",
+            "owner": "aylei",
+            "repo": "kubectl-debug",
+            "stars": 2302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-profefe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226109285,
+            "language": "Go",
+            "last_commit": "2020-10-31T15:14:44Z",
+            "owner": "profefe",
+            "repo": "kube-profefe",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-profefe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 226109285,
+            "language": "Go",
+            "last_commit": "2020-10-31T15:14:44Z",
+            "owner": "profefe",
+            "repo": "kube-profefe",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ksniff",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137678747,
+            "language": "Go",
+            "last_commit": "2024-08-02T03:16:37Z",
+            "owner": "eldadru",
+            "repo": "ksniff",
+            "stars": 3473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ksniff",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137678747,
+            "language": "Go",
+            "last_commit": "2024-08-02T03:16:37Z",
+            "owner": "eldadru",
+            "repo": "ksniff",
+            "stars": 3473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-swiftnp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191256829,
+            "language": "Go",
+            "last_commit": "2019-06-13T21:37:04Z",
+            "owner": "bmuschko",
+            "repo": "kubectl-swiftnp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-swiftnp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191256829,
+            "language": "Go",
+            "last_commit": "2019-06-13T21:37:04Z",
+            "owner": "bmuschko",
+            "repo": "kubectl-swiftnp",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-trace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158594821,
+            "language": "Go",
+            "last_commit": "2026-04-16T20:47:34Z",
+            "owner": "iovisor",
+            "repo": "kubectl-trace",
+            "stars": 2186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-trace",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158594821,
+            "language": "Go",
+            "last_commit": "2026-04-16T20:47:34Z",
+            "owner": "iovisor",
+            "repo": "kubectl-trace",
+            "stars": 2186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-capture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170356233,
+            "language": "Shell",
+            "last_commit": "2023-06-16T00:13:45Z",
+            "owner": "sysdiglabs",
+            "repo": "kubectl-capture",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-capture",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170356233,
+            "language": "Shell",
+            "last_commit": "2023-06-16T00:13:45Z",
+            "owner": "sysdiglabs",
+            "repo": "kubectl-capture",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-plugin-pvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124880561,
+            "language": "Shell",
+            "last_commit": "2018-08-16T19:24:04Z",
+            "owner": "fabiand",
+            "repo": "kubectl-plugin-pvc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-plugin-pvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124880561,
+            "language": "Shell",
+            "last_commit": "2018-08-16T19:24:04Z",
+            "owner": "fabiand",
+            "repo": "kubectl-plugin-pvc",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dfi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191521685,
+            "language": "Go",
+            "last_commit": "2019-06-17T06:14:17Z",
+            "owner": "makocchi-git",
+            "repo": "kubectl-dfi",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dfi",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191521685,
+            "language": "Go",
+            "last_commit": "2019-06-17T06:14:17Z",
+            "owner": "makocchi-git",
+            "repo": "kubectl-dfi",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-unbound-pvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224233498,
+            "language": "Shell",
+            "last_commit": "2019-11-28T10:03:00Z",
+            "owner": "ishantanu",
+            "repo": "kubectl-unbound-pvc",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-unbound-pvc",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224233498,
+            "language": "Shell",
+            "last_commit": "2019-11-28T10:03:00Z",
+            "owner": "ishantanu",
+            "repo": "kubectl-unbound-pvc",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-df-pv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224654497,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:53:54Z",
+            "owner": "yashbhutwala",
+            "repo": "kubectl-df-pv",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-df-pv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 224654497,
+            "language": "Go",
+            "last_commit": "2026-08-13T01:53:54Z",
+            "owner": "yashbhutwala",
+            "repo": "kubectl-df-pv",
+            "stars": 498
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outdated",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200257453,
+            "language": "Go",
+            "last_commit": "2024-10-28T14:43:39Z",
+            "owner": "replicatedhq",
+            "repo": "outdated",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outdated",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200257453,
+            "language": "Go",
+            "last_commit": "2024-10-28T14:43:39Z",
+            "owner": "replicatedhq",
+            "repo": "outdated",
+            "stars": 438
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kubesec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132581351,
+            "language": "Go",
+            "last_commit": "2025-01-23T16:14:13Z",
+            "owner": "controlplaneio",
+            "repo": "kubectl-kubesec",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kubesec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132581351,
+            "language": "Go",
+            "last_commit": "2025-01-23T16:14:13Z",
+            "owner": "controlplaneio",
+            "repo": "kubectl-kubesec",
+            "stars": 519
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duplik8s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799269879,
+            "language": "Go",
+            "last_commit": "2026-08-09T08:40:33Z",
+            "owner": "Telemaco019",
+            "repo": "duplik8s",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duplik8s",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 799269879,
+            "language": "Go",
+            "last_commit": "2026-08-09T08:40:33Z",
+            "owner": "Telemaco019",
+            "repo": "duplik8s",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-enter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175691263,
+            "language": "Shell",
+            "last_commit": "2025-03-04T18:44:27Z",
+            "owner": "kvaps",
+            "repo": "kubectl-node-shell",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-node-shell",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175691263,
+            "language": "Shell",
+            "last_commit": "2025-03-04T18:44:27Z",
+            "owner": "kvaps",
+            "repo": "kubectl-node-shell",
+            "stars": 1834
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-iexec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182160901,
+            "language": "Go",
+            "last_commit": "2025-01-21T12:49:46Z",
+            "owner": "gabeduke",
+            "repo": "kubectl-iexec",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-iexec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182160901,
+            "language": "Go",
+            "last_commit": "2025-01-21T12:49:46Z",
+            "owner": "gabeduke",
+            "repo": "kubectl-iexec",
+            "stars": 144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ssh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196738109,
+            "language": "Shell",
+            "last_commit": "2019-07-13T20:58:23Z",
+            "owner": "IuryAlves",
+            "repo": "kubectl-ssh",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ssh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196738109,
+            "language": "Shell",
+            "last_commit": "2019-07-13T20:58:23Z",
+            "owner": "IuryAlves",
+            "repo": "kubectl-ssh",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kcn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137421549,
+            "language": "Shell",
+            "last_commit": "2020-05-19T04:32:40Z",
+            "owner": "marjamis",
+            "repo": "kubectl-kcn",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kcn",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137421549,
+            "language": "Shell",
+            "last_commit": "2020-05-19T04:32:40Z",
+            "owner": "marjamis",
+            "repo": "kubectl-kcn",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "duyguserbest kubectl-iexec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156378855,
+            "language": "Shell",
+            "last_commit": "2018-11-06T20:30:09Z",
+            "owner": "duyguserbest",
+            "repo": "kubectl-iexec",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-iexec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156378855,
+            "language": "Shell",
+            "last_commit": "2018-11-06T20:30:09Z",
+            "owner": "duyguserbest",
+            "repo": "kubectl-iexec",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-exec-all",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142968617,
+            "language": "Shell",
+            "last_commit": "2019-02-17T09:39:55Z",
+            "owner": "jpdasma",
+            "repo": "kubectl-exec-all",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-exec-all",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142968617,
+            "language": "Shell",
+            "last_commit": "2019-02-17T09:39:55Z",
+            "owner": "jpdasma",
+            "repo": "kubectl-exec-all",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-nsenter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181771833,
+            "language": "Shell",
+            "last_commit": "2019-06-17T16:42:15Z",
+            "owner": "towolf",
+            "repo": "kubectl-nsenter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-nsenter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181771833,
+            "language": "Shell",
+            "last_commit": "2019-06-17T16:42:15Z",
+            "owner": "towolf",
+            "repo": "kubectl-nsenter",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kvaps kubectl-ssh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175835847,
+            "language": "Shell",
+            "last_commit": "2019-03-15T14:43:19Z",
+            "owner": "kvaps",
+            "repo": "kubectl-ssh",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ssh",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 175835847,
+            "language": "Shell",
+            "last_commit": "2019-03-15T14:43:19Z",
+            "owner": "kvaps",
+            "repo": "kubectl-ssh",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-warp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162389400,
+            "language": "Go",
+            "last_commit": "2023-04-04T21:12:14Z",
+            "owner": "ernoaapa",
+            "repo": "kubectl-warp",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-warp",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162389400,
+            "language": "Go",
+            "last_commit": "2023-04-04T21:12:14Z",
+            "owner": "ernoaapa",
+            "repo": "kubectl-warp",
+            "stars": 313
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-plugin-ssh-jump",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167761778,
+            "language": "Shell",
+            "last_commit": "2024-02-15T09:53:00Z",
+            "owner": "yokawasa",
+            "repo": "kubectl-plugin-ssh-jump",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-plugin-ssh-jump",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 167761778,
+            "language": "Shell",
+            "last_commit": "2024-02-15T09:53:00Z",
+            "owner": "yokawasa",
+            "repo": "kubectl-plugin-ssh-jump",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-texec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191769520,
+            "language": null,
+            "last_commit": "2019-06-23T03:12:53Z",
+            "owner": "TrsNium",
+            "repo": "kubectl-texec",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-texec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191769520,
+            "language": null,
+            "last_commit": "2019-06-23T03:12:53Z",
+            "owner": "TrsNium",
+            "repo": "kubectl-texec",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187535556,
+            "language": "Go",
+            "last_commit": "2023-12-18T21:53:45Z",
+            "owner": "sysdiglabs",
+            "repo": "kubectl-dig",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187535556,
+            "language": "Go",
+            "last_commit": "2023-12-18T21:53:45Z",
+            "owner": "sysdiglabs",
+            "repo": "kubectl-dig",
+            "stars": 386
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-utility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182734507,
+            "language": "Python",
+            "last_commit": "2019-10-09T22:09:31Z",
+            "owner": "metrosystems-cpe",
+            "repo": "kubectl-utility",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-utility",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 182734507,
+            "language": "Python",
+            "last_commit": "2019-10-09T22:09:31Z",
+            "owner": "metrosystems-cpe",
+            "repo": "kubectl-utility",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240712313,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:32:41Z",
+            "owner": "steveteuber",
+            "repo": "kubectl-graph",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-graph",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240712313,
+            "language": "Go",
+            "last_commit": "2026-07-29T09:32:41Z",
+            "owner": "steveteuber",
+            "repo": "kubectl-graph",
+            "stars": 695
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229827299,
+            "language": "Go",
+            "last_commit": "2026-08-24T01:23:56Z",
+            "owner": "ahmetb",
+            "repo": "kubectl-tree",
+            "stars": 3416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 229827299,
+            "language": "Go",
+            "last_commit": "2026-08-24T01:23:56Z",
+            "owner": "ahmetb",
+            "repo": "kubectl-tree",
+            "stars": 3416
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-topology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240540693,
+            "language": "Go",
+            "last_commit": "2023-01-14T14:04:10Z",
+            "owner": "bmcustodio",
+            "repo": "kubectl-topology",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-topology",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240540693,
+            "language": "Go",
+            "last_commit": "2023-01-14T14:04:10Z",
+            "owner": "bmcustodio",
+            "repo": "kubectl-topology",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pod-Dive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227899580,
+            "language": "Go",
+            "last_commit": "2023-05-16T14:44:38Z",
+            "owner": "caiobegotti",
+            "repo": "Pod-Dive",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pod-Dive",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 227899580,
+            "language": "Go",
+            "last_commit": "2023-05-16T14:44:38Z",
+            "owner": "caiobegotti",
+            "repo": "Pod-Dive",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dashboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165281289,
+            "language": "Go",
+            "last_commit": "2020-07-01T09:27:59Z",
+            "owner": "bouk",
+            "repo": "kubectl-dashboard",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dashboard",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 165281289,
+            "language": "Go",
+            "last_commit": "2020-07-01T09:27:59Z",
+            "owner": "bouk",
+            "repo": "kubectl-dashboard",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubelogin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126163087,
+            "language": "Go",
+            "last_commit": "2026-08-22T20:43:35Z",
+            "owner": "int128",
+            "repo": "kubelogin",
+            "stars": 2350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubelogin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126163087,
+            "language": "Go",
+            "last_commit": "2026-08-22T20:43:35Z",
+            "owner": "int128",
+            "repo": "kubelogin",
+            "stars": 2350
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-pixy-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152089088,
+            "language": "Go",
+            "last_commit": "2022-05-02T19:41:30Z",
+            "owner": "auth0",
+            "repo": "k8s-pixy-auth",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "k8s-pixy-auth",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152089088,
+            "language": "Go",
+            "last_commit": "2022-05-02T19:41:30Z",
+            "owner": "auth0",
+            "repo": "k8s-pixy-auth",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-login",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156736697,
+            "language": "Go",
+            "last_commit": "2018-11-08T18:25:25Z",
+            "owner": "sdrozdkov",
+            "repo": "kubectl-login",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-login",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156736697,
+            "language": "Go",
+            "last_commit": "2018-11-08T18:25:25Z",
+            "owner": "sdrozdkov",
+            "repo": "kubectl-login",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "zjj2wry kubectl-login",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147148038,
+            "language": "Go",
+            "last_commit": "2018-09-04T11:24:45Z",
+            "owner": "zjj2wry",
+            "repo": "kubectl-login",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-login",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147148038,
+            "language": "Go",
+            "last_commit": "2018-09-04T11:24:45Z",
+            "owner": "zjj2wry",
+            "repo": "kubectl-login",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-pass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197019447,
+            "language": "Shell",
+            "last_commit": "2019-07-16T05:52:54Z",
+            "owner": "rafi",
+            "repo": "kubectl-pass",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-pass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197019447,
+            "language": "Shell",
+            "last_commit": "2019-07-16T05:52:54Z",
+            "owner": "rafi",
+            "repo": "kubectl-pass",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ssm-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196567734,
+            "language": "Go",
+            "last_commit": "2023-10-11T23:26:02Z",
+            "owner": "pr8kerl",
+            "repo": "kubectl-ssm-secret",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ssm-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196567734,
+            "language": "Go",
+            "last_commit": "2023-10-11T23:26:02Z",
+            "owner": "pr8kerl",
+            "repo": "kubectl-ssm-secret",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-decode-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139834633,
+            "language": "Shell",
+            "last_commit": "2018-07-07T22:36:08Z",
+            "owner": "brosandilabs",
+            "repo": "kubectl-decode-secret",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-decode-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139834633,
+            "language": "Shell",
+            "last_commit": "2018-07-07T22:36:08Z",
+            "owner": "brosandilabs",
+            "repo": "kubectl-decode-secret",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-gopass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202395592,
+            "language": "Shell",
+            "last_commit": "2020-10-20T21:34:41Z",
+            "owner": "gopasspw",
+            "repo": "kubectl-gopass",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-gopass",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 202395592,
+            "language": "Shell",
+            "last_commit": "2020-10-20T21:34:41Z",
+            "owner": "gopasspw",
+            "repo": "kubectl-gopass",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-modify-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210006932,
+            "language": "Go",
+            "last_commit": "2024-03-06T01:38:15Z",
+            "owner": "rajatjindal",
+            "repo": "kubectl-modify-secret",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-modify-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210006932,
+            "language": "Go",
+            "last_commit": "2024-03-06T01:38:15Z",
+            "owner": "rajatjindal",
+            "repo": "kubectl-modify-secret",
+            "stars": 202
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weibeld kubectl-ctx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169791572,
+            "language": "Shell",
+            "last_commit": "2022-12-29T11:39:18Z",
+            "owner": "weibeld",
+            "repo": "kubectl-ctx",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ctx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169791572,
+            "language": "Shell",
+            "last_commit": "2022-12-29T11:39:18Z",
+            "owner": "weibeld",
+            "repo": "kubectl-ctx",
+            "stars": 52
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "weibeld kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169795135,
+            "language": "Shell",
+            "last_commit": "2022-12-29T11:40:39Z",
+            "owner": "weibeld",
+            "repo": "kubectl-ns",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169795135,
+            "language": "Shell",
+            "last_commit": "2022-12-29T11:40:39Z",
+            "owner": "weibeld",
+            "repo": "kubectl-ns",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-select-context",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194908631,
+            "language": "Python",
+            "last_commit": "2020-04-05T17:34:23Z",
+            "owner": "stefanm8",
+            "repo": "kubectl-select-context",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-select-context",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 194908631,
+            "language": "Python",
+            "last_commit": "2020-04-05T17:34:23Z",
+            "owner": "stefanm8",
+            "repo": "kubectl-select-context",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-use",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192702535,
+            "language": "Shell",
+            "last_commit": "2023-08-29T10:31:58Z",
+            "owner": "kvaps",
+            "repo": "kubectl-use",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-use",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192702535,
+            "language": "Shell",
+            "last_commit": "2023-08-29T10:31:58Z",
+            "owner": "kvaps",
+            "repo": "kubectl-use",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86733463,
+            "language": "Go",
+            "last_commit": "2026-08-02T01:42:33Z",
+            "owner": "ahmetb",
+            "repo": "kubectx",
+            "stars": 19954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectx",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86733463,
+            "language": "Go",
+            "last_commit": "2026-08-02T01:42:33Z",
+            "owner": "ahmetb",
+            "repo": "kubectx",
+            "stars": 19954
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 151578175,
+            "language": "Go",
+            "last_commit": "2022-09-08T06:13:33Z",
+            "owner": "postfinance",
+            "repo": "kubectl-ns",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 151578175,
+            "language": "Go",
+            "last_commit": "2022-09-08T06:13:33Z",
+            "owner": "postfinance",
+            "repo": "kubectl-ns",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-use",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192702535,
+            "language": "Shell",
+            "last_commit": "2023-08-29T10:31:58Z",
+            "owner": "kvaps",
+            "repo": "kubectl-use",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-use",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192702535,
+            "language": "Shell",
+            "last_commit": "2023-08-29T10:31:58Z",
+            "owner": "kvaps",
+            "repo": "kubectl-use",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-switch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183898528,
+            "language": "Go",
+            "last_commit": "2019-05-12T10:39:58Z",
+            "owner": "imyuliz",
+            "repo": "kubectl-switch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-switch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183898528,
+            "language": "Go",
+            "last_commit": "2019-05-12T10:39:58Z",
+            "owner": "imyuliz",
+            "repo": "kubectl-switch",
+            "stars": 9
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "caas-one kubectl-switch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185316129,
+            "language": "Go",
+            "last_commit": "2019-05-12T10:57:41Z",
+            "owner": "caas-one",
+            "repo": "kubectl-switch",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-switch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185316129,
+            "language": "Go",
+            "last_commit": "2019-05-12T10:57:41Z",
+            "owner": "caas-one",
+            "repo": "kubectl-switch",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "juanvallejo kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161542066,
+            "language": "Go",
+            "last_commit": "2018-12-21T22:03:01Z",
+            "owner": "juanvallejo",
+            "repo": "kubectl-ns",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ns",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 161542066,
+            "language": "Go",
+            "last_commit": "2018-12-21T22:03:01Z",
+            "owner": "juanvallejo",
+            "repo": "kubectl-ns",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "km",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 205267785,
+            "language": "Shell",
+            "last_commit": "2025-02-25T18:21:17Z",
+            "owner": "cststack",
+            "repo": "km",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "km",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 205267785,
+            "language": "Shell",
+            "last_commit": "2025-02-25T18:21:17Z",
+            "owner": "cststack",
+            "repo": "km",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ketall",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170769233,
+            "language": "Go",
+            "last_commit": "2023-12-06T15:08:38Z",
+            "owner": "corneliusweig",
+            "repo": "ketall",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ketall",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170769233,
+            "language": "Go",
+            "last_commit": "2023-12-06T15:08:38Z",
+            "owner": "corneliusweig",
+            "repo": "ketall",
+            "stars": 755
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-grep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170360309,
+            "language": "Go",
+            "last_commit": "2026-08-20T08:59:12Z",
+            "owner": "guessi",
+            "repo": "kubectl-grep",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-grep",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170360309,
+            "language": "Go",
+            "last_commit": "2026-08-20T08:59:12Z",
+            "owner": "guessi",
+            "repo": "kubectl-grep",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-all",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170879587,
+            "language": "Shell",
+            "last_commit": "2019-02-15T14:49:10Z",
+            "owner": "kajanth",
+            "repo": "kubectl-all",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-all",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170879587,
+            "language": "Shell",
+            "last_commit": "2019-02-15T14:49:10Z",
+            "owner": "kajanth",
+            "repo": "kubectl-all",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-watch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187380453,
+            "language": "Shell",
+            "last_commit": "2023-08-21T05:57:47Z",
+            "owner": "lee0c",
+            "repo": "kubectl-watch",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-watch",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187380453,
+            "language": "Shell",
+            "last_commit": "2023-08-21T05:57:47Z",
+            "owner": "lee0c",
+            "repo": "kubectl-watch",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-custom-cols",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201554115,
+            "language": "Shell",
+            "last_commit": "2024-01-06T11:18:07Z",
+            "owner": "webofmars",
+            "repo": "kubectl-custom-cols",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-custom-cols",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201554115,
+            "language": "Shell",
+            "last_commit": "2024-01-06T11:18:07Z",
+            "owner": "webofmars",
+            "repo": "kubectl-custom-cols",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubepod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183132125,
+            "language": "Shell",
+            "last_commit": "2019-04-24T15:37:40Z",
+            "owner": "karancode",
+            "repo": "kubepod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubepod",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183132125,
+            "language": "Shell",
+            "last_commit": "2019-04-24T15:37:40Z",
+            "owner": "karancode",
+            "repo": "kubepod",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193801143,
+            "language": "Go",
+            "last_commit": "2022-01-13T05:34:16Z",
+            "owner": "howardjohn",
+            "repo": "kubectl-resources",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-resources",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193801143,
+            "language": "Go",
+            "last_commit": "2022-01-13T05:34:16Z",
+            "owner": "howardjohn",
+            "repo": "kubectl-resources",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-free",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193948808,
+            "language": "Go",
+            "last_commit": "2019-08-07T10:13:05Z",
+            "owner": "makocchi-git",
+            "repo": "kubectl-free",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-free",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193948808,
+            "language": "Go",
+            "last_commit": "2019-08-07T10:13:05Z",
+            "owner": "makocchi-git",
+            "repo": "kubectl-free",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-match-name",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169547164,
+            "language": "Go",
+            "last_commit": "2021-12-31T09:35:25Z",
+            "owner": "gerald1248",
+            "repo": "kubectl-match-name",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-match-name",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 169547164,
+            "language": "Go",
+            "last_commit": "2021-12-31T09:35:25Z",
+            "owner": "gerald1248",
+            "repo": "kubectl-match-name",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-eksporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200604431,
+            "language": "Ruby",
+            "last_commit": "2022-07-06T18:52:39Z",
+            "owner": "Kyrremann",
+            "repo": "kubectl-eksporter",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-eksporter",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 200604431,
+            "language": "Ruby",
+            "last_commit": "2022-07-06T18:52:39Z",
+            "owner": "Kyrremann",
+            "repo": "kubectl-eksporter",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-capacity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168855888,
+            "language": "Go",
+            "last_commit": "2025-11-21T01:07:32Z",
+            "owner": "robscott",
+            "repo": "kube-capacity",
+            "stars": 2664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kube-capacity",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168855888,
+            "language": "Go",
+            "last_commit": "2025-11-21T01:07:32Z",
+            "owner": "robscott",
+            "repo": "kube-capacity",
+            "stars": 2664
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-rotate-pods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205887295,
+            "language": "Shell",
+            "last_commit": "2019-11-19T22:59:05Z",
+            "owner": "mousavian",
+            "repo": "kubectl-rotate-pods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-rotate-pods",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205887295,
+            "language": "Shell",
+            "last_commit": "2019-11-19T22:59:05Z",
+            "owner": "mousavian",
+            "repo": "kubectl-rotate-pods",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-terminate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219845224,
+            "language": "Go",
+            "last_commit": "2021-10-08T09:49:45Z",
+            "owner": "xcoulon",
+            "repo": "kubectl-terminate",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-terminate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219845224,
+            "language": "Go",
+            "last_commit": "2021-10-08T09:49:45Z",
+            "owner": "xcoulon",
+            "repo": "kubectl-terminate",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-extension-versions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 176355950,
+            "language": "Go",
+            "last_commit": "2019-03-18T19:56:58Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "kubectl-extension-versions",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-extension-versions",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 176355950,
+            "language": "Go",
+            "last_commit": "2019-03-18T19:56:58Z",
+            "owner": "GoogleCloudPlatform",
+            "repo": "kubectl-extension-versions",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "70",
+          "description": "kudo A kubectl plugin to use kudo via kubectl CLI Controller/Operator",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158545617,
+            "language": "Go",
+            "last_commit": "2023-08-22T07:57:43Z",
+            "owner": "kudobuilder",
+            "repo": "kudo",
+            "stars": 1215
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ipick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276022895,
+            "language": "Go",
+            "last_commit": "2020-07-15T17:55:32Z",
+            "owner": "similarweb",
+            "repo": "kubectl-ipick",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ipick",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 276022895,
+            "language": "Go",
+            "last_commit": "2020-07-15T17:55:32Z",
+            "owner": "similarweb",
+            "repo": "kubectl-ipick",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tmux-logs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120147525,
+            "language": "Shell",
+            "last_commit": "2018-07-17T11:52:46Z",
+            "owner": "brosandilabs",
+            "repo": "kubectl-tmux-logs",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tmux-logs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 120147525,
+            "language": "Shell",
+            "last_commit": "2018-07-17T11:52:46Z",
+            "owner": "brosandilabs",
+            "repo": "kubectl-tmux-logs",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-clogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159073803,
+            "language": "Go",
+            "last_commit": "2021-08-31T20:19:04Z",
+            "owner": "ivkalita",
+            "repo": "kubectl-clogs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-clogs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 159073803,
+            "language": "Go",
+            "last_commit": "2021-08-31T20:19:04Z",
+            "owner": "ivkalita",
+            "repo": "kubectl-clogs",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-open-svc-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134391875,
+            "language": "Go",
+            "last_commit": "2026-05-16T13:55:28Z",
+            "owner": "superbrothers",
+            "repo": "kubectl-open-svc-plugin",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-open-svc-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134391875,
+            "language": "Go",
+            "last_commit": "2026-05-16T13:55:28Z",
+            "owner": "superbrothers",
+            "repo": "kubectl-open-svc-plugin",
+            "stars": 124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-doctor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198386182,
+            "language": "Go",
+            "last_commit": "2022-10-06T14:33:46Z",
+            "owner": "emirozer",
+            "repo": "kubectl-doctor",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-doctor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198386182,
+            "language": "Go",
+            "last_commit": "2022-10-06T14:33:46Z",
+            "owner": "emirozer",
+            "repo": "kubectl-doctor",
+            "stars": 365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-view-serviceaccount-kubeconfig-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132137644,
+            "language": "Go",
+            "last_commit": "2026-05-16T12:55:16Z",
+            "owner": "superbrothers",
+            "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-view-serviceaccount-kubeconfig-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 132137644,
+            "language": "Go",
+            "last_commit": "2026-05-16T12:55:16Z",
+            "owner": "superbrothers",
+            "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unfork",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197024845,
+            "language": "Go",
+            "last_commit": "2021-12-09T02:52:29Z",
+            "owner": "replicatedhq",
+            "repo": "unfork",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unfork",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 197024845,
+            "language": "Go",
+            "last_commit": "2021-12-09T02:52:29Z",
+            "owner": "replicatedhq",
+            "repo": "unfork",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-config-merge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170710966,
+            "language": "Go",
+            "last_commit": "2023-03-06T13:32:11Z",
+            "owner": "kairen",
+            "repo": "kubectl-config-merge",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-config-merge",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170710966,
+            "language": "Go",
+            "last_commit": "2023-03-06T13:32:11Z",
+            "owner": "kairen",
+            "repo": "kubectl-config-merge",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "konfig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178614017,
+            "language": "Shell",
+            "last_commit": "2022-06-30T06:25:55Z",
+            "owner": "corneliusweig",
+            "repo": "konfig",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "konfig",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178614017,
+            "language": "Shell",
+            "last_commit": "2022-06-30T06:25:55Z",
+            "owner": "corneliusweig",
+            "repo": "konfig",
+            "stars": 391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectlsafe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168506284,
+            "language": "Shell",
+            "last_commit": "2021-01-18T07:11:31Z",
+            "owner": "esin",
+            "repo": "kubectlsafe",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectlsafe",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168506284,
+            "language": "Shell",
+            "last_commit": "2021-01-18T07:11:31Z",
+            "owner": "esin",
+            "repo": "kubectlsafe",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-rainbow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133259206,
+            "language": "Go",
+            "last_commit": "2020-12-13T19:15:10Z",
+            "owner": "retr0h",
+            "repo": "kubectl-rainbow",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-rainbow",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 133259206,
+            "language": "Go",
+            "last_commit": "2020-12-13T19:15:10Z",
+            "owner": "retr0h",
+            "repo": "kubectl-rainbow",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ansible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172677668,
+            "language": "Python",
+            "last_commit": "2019-02-26T09:15:42Z",
+            "owner": "moshloop",
+            "repo": "kubectl-ansible",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-ansible",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172677668,
+            "language": "Python",
+            "last_commit": "2019-02-26T09:15:42Z",
+            "owner": "moshloop",
+            "repo": "kubectl-ansible",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-server-version",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189635498,
+            "language": "Go",
+            "last_commit": "2019-06-20T14:07:27Z",
+            "owner": "bmuschko",
+            "repo": "kubectl-server-version",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-server-version",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189635498,
+            "language": "Go",
+            "last_commit": "2019-06-20T14:07:27Z",
+            "owner": "bmuschko",
+            "repo": "kubectl-server-version",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-config-cleanup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176971763,
+            "language": "Go",
+            "last_commit": "2025-10-01T14:33:49Z",
+            "owner": "TorchAIKC",
+            "repo": "kubectl-config-cleanup",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-config-cleanup",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176971763,
+            "language": "Go",
+            "last_commit": "2025-10-01T14:33:49Z",
+            "owner": "TorchAIKC",
+            "repo": "kubectl-config-cleanup",
+            "stars": 55
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-gitlab-bootstrap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206411248,
+            "language": "Go",
+            "last_commit": "2021-02-15T22:04:27Z",
+            "owner": "eddiezane",
+            "repo": "kubectl-gitlab_bootstrap",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-gitlab_bootstrap",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206411248,
+            "language": "Go",
+            "last_commit": "2021-02-15T22:04:27Z",
+            "owner": "eddiezane",
+            "repo": "kubectl-gitlab_bootstrap",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-captain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206042665,
+            "language": "Go",
+            "last_commit": "2022-05-11T05:24:32Z",
+            "owner": "alauda",
+            "repo": "kubectl-captain",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-captain",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206042665,
+            "language": "Go",
+            "last_commit": "2022-05-11T05:24:32Z",
+            "owner": "alauda",
+            "repo": "kubectl-captain",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl preflight",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195894190,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:37:19Z",
+            "owner": "replicatedhq",
+            "repo": "troubleshoot",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "troubleshoot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195894190,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:37:19Z",
+            "owner": "replicatedhq",
+            "repo": "troubleshoot",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl support-bundle",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195894190,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:37:19Z",
+            "owner": "replicatedhq",
+            "repo": "troubleshoot",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "troubleshoot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 195894190,
+            "language": "Go",
+            "last_commit": "2026-08-23T14:37:19Z",
+            "owner": "replicatedhq",
+            "repo": "troubleshoot",
+            "stars": 585
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-virt-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190237504,
+            "language": "Shell",
+            "last_commit": "2026-07-31T00:01:32Z",
+            "owner": "kubevirt",
+            "repo": "kubectl-virt-plugin",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-virt-plugin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190237504,
+            "language": "Shell",
+            "last_commit": "2026-07-31T00:01:32Z",
+            "owner": "kubevirt",
+            "repo": "kubectl-virt-plugin",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kcf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223789028,
+            "language": "Go",
+            "last_commit": "2024-09-24T16:17:21Z",
+            "owner": "kubectl-plus",
+            "repo": "kcf",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kcf",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 223789028,
+            "language": "Go",
+            "last_commit": "2024-09-24T16:17:21Z",
+            "owner": "kubectl-plus",
+            "repo": "kcf",
+            "stars": 110
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubepug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232220881,
+            "language": "Go",
+            "last_commit": "2026-06-22T09:27:04Z",
+            "owner": "kubepug",
+            "repo": "kubepug",
+            "stars": 1840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubepug",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 232220881,
+            "language": "Go",
+            "last_commit": "2026-06-22T09:27:04Z",
+            "owner": "kubepug",
+            "repo": "kubepug",
+            "stars": 1840
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl view-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216479275,
+            "language": "Go",
+            "last_commit": "2026-04-23T05:21:31Z",
+            "owner": "elsesiy",
+            "repo": "kubectl-view-secret",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-view-secret",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216479275,
+            "language": "Go",
+            "last_commit": "2026-04-23T05:21:31Z",
+            "owner": "elsesiy",
+            "repo": "kubectl-view-secret",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-cilium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250790257,
+            "language": "Go",
+            "last_commit": "2022-09-02T04:32:30Z",
+            "owner": "bmcustodio",
+            "repo": "kubectl-cilium",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-cilium",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 250790257,
+            "language": "Go",
+            "last_commit": "2022-09-02T04:32:30Z",
+            "owner": "bmcustodio",
+            "repo": "kubectl-cilium",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-carbonetes-scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335810310,
+            "language": "Shell",
+            "last_commit": "2021-10-04T07:43:06Z",
+            "owner": "carbonetes",
+            "repo": "kubectl-carbonetes-scan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-carbonetes-scan",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 335810310,
+            "language": "Shell",
+            "last_commit": "2021-10-04T07:43:06Z",
+            "owner": "carbonetes",
+            "repo": "kubectl-carbonetes-scan",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-cyclonus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338314173,
+            "language": "Go",
+            "last_commit": "2024-07-11T10:22:22Z",
+            "owner": "mattfenwick",
+            "repo": "kubectl-cyclonus",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-cyclonus",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338314173,
+            "language": "Go",
+            "last_commit": "2024-07-11T10:22:22Z",
+            "owner": "mattfenwick",
+            "repo": "kubectl-cyclonus",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-view-webhook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 311955521,
+            "language": "Go",
+            "last_commit": "2023-02-17T19:37:35Z",
+            "owner": "Trendyol",
+            "repo": "kubectl-view-webhook",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-view-webhook",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 311955521,
+            "language": "Go",
+            "last_commit": "2023-02-17T19:37:35Z",
+            "owner": "Trendyol",
+            "repo": "kubectl-view-webhook",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-translate",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296651739,
+            "language": "Go",
+            "last_commit": "2025-03-06T14:02:34Z",
+            "owner": "konveyor",
+            "repo": "move2kube",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "move2kube",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 296651739,
+            "language": "Go",
+            "last_commit": "2025-03-06T14:02:34Z",
+            "owner": "konveyor",
+            "repo": "move2kube",
+            "stars": 412
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-datree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 452665574,
+            "language": "Shell",
+            "last_commit": "2022-10-25T11:31:51Z",
+            "owner": "datreeio",
+            "repo": "kubectl-datree",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-datree",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 452665574,
+            "language": "Shell",
+            "last_commit": "2022-10-25T11:31:51Z",
+            "owner": "datreeio",
+            "repo": "kubectl-datree",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-irsa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479625610,
+            "language": "Go",
+            "last_commit": "2022-11-02T23:02:07Z",
+            "owner": "TeamBion",
+            "repo": "kubectl-irsa",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-irsa",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 479625610,
+            "language": "Go",
+            "last_commit": "2022-11-02T23:02:07Z",
+            "owner": "TeamBion",
+            "repo": "kubectl-irsa",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-dumpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744792412,
+            "language": "Go",
+            "last_commit": "2025-01-11T00:38:20Z",
+            "owner": "larryTheSlap",
+            "repo": "dumpy",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dumpy",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 744792412,
+            "language": "Go",
+            "last_commit": "2025-01-11T00:38:20Z",
+            "owner": "larryTheSlap",
+            "repo": "dumpy",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988423692,
+            "language": "Go",
+            "last_commit": "2025-11-19T01:28:19Z",
+            "owner": "comboshreddies",
+            "repo": "kubectl-tks",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tks",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 988423692,
+            "language": "Go",
+            "last_commit": "2025-11-19T01:28:19Z",
+            "owner": "comboshreddies",
+            "repo": "kubectl-tks",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl find",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007330172,
+            "language": "Go",
+            "last_commit": "2026-08-17T18:44:53Z",
+            "owner": "alikhil",
+            "repo": "kubectl-find",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-find",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1007330172,
+            "language": "Go",
+            "last_commit": "2026-08-17T18:44:53Z",
+            "owner": "alikhil",
+            "repo": "kubectl-find",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kanvas-snapshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 863006960,
+            "language": "Makefile",
+            "last_commit": "2026-08-06T23:01:54Z",
+            "owner": "meshery-extensions",
+            "repo": "kubectl-kanvas-snapshot",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-kanvas-snapshot",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 863006960,
+            "language": "Makefile",
+            "last_commit": "2026-08-06T23:01:54Z",
+            "owner": "meshery-extensions",
+            "repo": "kubectl-kanvas-snapshot",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tmux-exec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244356029,
+            "language": "Shell",
+            "last_commit": "2026-08-16T02:32:31Z",
+            "owner": "predatorray",
+            "repo": "kubectl-tmux-exec",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-tmux-exec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244356029,
+            "language": "Shell",
+            "last_commit": "2026-08-16T02:32:31Z",
+            "owner": "predatorray",
+            "repo": "kubectl-tmux-exec",
+            "stars": 142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-line",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1043830162,
+            "language": "Python",
+            "last_commit": "2026-03-15T14:59:38Z",
+            "owner": "comboshreddies",
+            "repo": "kubectl-line",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-line",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1043830162,
+            "language": "Python",
+            "last_commit": "2026-03-15T14:59:38Z",
+            "owner": "comboshreddies",
+            "repo": "kubectl-line",
+            "stars": 1
+          }
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -105,7 +3240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:36:57.794Z",
+    "last_updated": "2026-08-24T14:14:16.962Z",
     "original_repository": "ishantanu/awesome-kubectl-plugins",
     "original_repository_id": 207302304,
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
