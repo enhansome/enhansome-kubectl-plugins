@@ -75,7 +75,7 @@
             "last_commit": "2025-12-05T02:37:08Z",
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2099
+            "stars": 2100
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2025-12-05T02:37:08Z",
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2099
+            "stars": 2100
           }
         },
         {
@@ -912,7 +912,7 @@
             "archived": false,
             "id": 240712313,
             "language": "Go",
-            "last_commit": "2026-07-29T09:32:41Z",
+            "last_commit": "2026-08-24T16:22:50Z",
             "owner": "steveteuber",
             "repo": "kubectl-graph",
             "stars": 695
@@ -927,7 +927,7 @@
             "archived": false,
             "id": 240712313,
             "language": "Go",
-            "last_commit": "2026-07-29T09:32:41Z",
+            "last_commit": "2026-08-24T16:22:50Z",
             "owner": "steveteuber",
             "repo": "kubectl-graph",
             "stars": 695
@@ -945,7 +945,7 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3416
+            "stars": 3417
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3416
+            "stars": 3417
           }
         },
         {
@@ -1455,7 +1455,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19954
+            "stars": 19956
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19954
+            "stars": 19956
           }
         },
         {
@@ -2577,10 +2577,10 @@
             "archived": false,
             "id": 195894190,
             "language": "Go",
-            "last_commit": "2026-08-23T14:37:19Z",
+            "last_commit": "2026-08-24T23:38:40Z",
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -2592,10 +2592,10 @@
             "archived": false,
             "id": 195894190,
             "language": "Go",
-            "last_commit": "2026-08-23T14:37:19Z",
+            "last_commit": "2026-08-24T23:38:40Z",
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -2607,10 +2607,10 @@
             "archived": false,
             "id": 195894190,
             "language": "Go",
-            "last_commit": "2026-08-23T14:37:19Z",
+            "last_commit": "2026-08-24T23:38:40Z",
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -2622,10 +2622,10 @@
             "archived": false,
             "id": 195894190,
             "language": "Go",
-            "last_commit": "2026-08-23T14:37:19Z",
+            "last_commit": "2026-08-24T23:38:40Z",
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 585
+            "stars": 586
           }
         },
         {
@@ -3027,7 +3027,7 @@
             "archived": false,
             "id": 1007330172,
             "language": "Go",
-            "last_commit": "2026-08-17T18:44:53Z",
+            "last_commit": "2026-08-24T17:06:46Z",
             "owner": "alikhil",
             "repo": "kubectl-find",
             "stars": 84
@@ -3042,7 +3042,7 @@
             "archived": false,
             "id": 1007330172,
             "language": "Go",
-            "last_commit": "2026-08-17T18:44:53Z",
+            "last_commit": "2026-08-24T17:06:46Z",
             "owner": "alikhil",
             "repo": "kubectl-find",
             "stars": 84
@@ -3240,7 +3240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:14:16.962Z",
+    "last_updated": "2026-08-24T23:38:49.139Z",
     "original_repository": "ishantanu/awesome-kubectl-plugins",
     "original_repository_id": 207302304,
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
