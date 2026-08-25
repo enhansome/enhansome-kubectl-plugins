@@ -945,7 +945,7 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3417
+            "stars": 3418
           }
         },
         {
@@ -960,7 +960,7 @@
             "last_commit": "2026-08-24T01:23:56Z",
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3417
+            "stars": 3418
           }
         },
         {
@@ -2075,7 +2075,7 @@
         },
         {
           "node_type": "item",
-          "title": "70",
+          "title": "kudo",
           "description": "kudo A kubectl plugin to use kudo via kubectl CLI Controller/Operator",
           "children": [],
           "repo_info": {
@@ -3240,7 +3240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T23:38:49.139Z",
+    "last_updated": "2026-08-25T06:11:41.249Z",
     "original_repository": "ishantanu/awesome-kubectl-plugins",
     "original_repository_id": 207302304,
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
