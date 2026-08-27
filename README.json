@@ -15,7 +15,7 @@
             "last_commit": "2023-04-05T05:00:24Z",
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1401
+            "stars": 1402
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2023-04-05T05:00:24Z",
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1401
+            "stars": 1402
           }
         },
         {
@@ -525,7 +525,7 @@
             "last_commit": "2025-03-04T18:44:27Z",
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1834
+            "stars": 1835
           }
         },
         {
@@ -540,7 +540,7 @@
             "last_commit": "2025-03-04T18:44:27Z",
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1834
+            "stars": 1835
           }
         },
         {
@@ -915,7 +915,7 @@
             "last_commit": "2026-08-24T16:22:50Z",
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -930,7 +930,7 @@
             "last_commit": "2026-08-24T16:22:50Z",
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -1065,7 +1065,7 @@
             "last_commit": "2026-08-22T20:43:35Z",
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2350
+            "stars": 2351
           }
         },
         {
@@ -1080,7 +1080,7 @@
             "last_commit": "2026-08-22T20:43:35Z",
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2350
+            "stars": 2351
           }
         },
         {
@@ -1455,7 +1455,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19960
+            "stars": 19964
           }
         },
         {
@@ -1470,7 +1470,7 @@
             "last_commit": "2026-08-02T01:42:33Z",
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19960
+            "stars": 19964
           }
         },
         {
@@ -1665,7 +1665,7 @@
             "last_commit": "2023-12-06T15:08:38Z",
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -1680,7 +1680,7 @@
             "last_commit": "2023-12-06T15:08:38Z",
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 755
+            "stars": 756
           }
         },
         {
@@ -3060,7 +3060,7 @@
             "last_commit": "2026-08-06T23:01:54Z",
             "owner": "meshery-extensions",
             "repo": "kubectl-kanvas-snapshot",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -3075,7 +3075,7 @@
             "last_commit": "2026-08-06T23:01:54Z",
             "owner": "meshery-extensions",
             "repo": "kubectl-kanvas-snapshot",
-            "stars": 24
+            "stars": 25
           }
         },
         {
@@ -3152,7 +3152,7 @@
                 "last_commit": "2024-06-27T06:00:21Z",
                 "owner": "jordanwilson230",
                 "repo": "kubectl-plugins",
-                "stars": 636
+                "stars": 637
               }
             },
             {
@@ -3240,7 +3240,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T23:40:07.161Z",
+    "last_updated": "2026-08-27T04:32:06.859Z",
     "original_repository": "ishantanu/awesome-kubectl-plugins",
     "original_repository_id": 207302304,
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
