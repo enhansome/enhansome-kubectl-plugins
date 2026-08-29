@@ -1,6 +1,6 @@
 # awesome-kubectl-plugins with stars
 
-A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,629 | 🐛 105 | 📅 2026-08-21 list.
+A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
@@ -17,7 +17,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Package Manager 📦
 
-* [Krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,032 | 🐛 21 | 🌐 Go | 📅 2026-05-21
+* [Krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,033 | 🐛 21 | 🌐 Go | 📅 2026-05-21
 
 ## Resources
 
@@ -35,7 +35,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Use `awesome-kubectl-plugins` as a Custom Index via Krew
 
-A notable feature `custom index` was added in `krew's` [v0.4.0](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.0) ⭐ 7,032 | 🐛 21 | 🌐 Go | 📅 2026-05-21 release. This means you can now use custom indexes of your own to install the plugins via `krew`.
+A notable feature `custom index` was added in `krew's` [v0.4.0](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.0) ⭐ 7,033 | 🐛 21 | 🌐 Go | 📅 2026-05-21 release. This means you can now use custom indexes of your own to install the plugins via `krew`.
 
 Was you plugin not accepted in default `krew-index` due to some reasons? No issues, you can still use that plugin manifest in your custom index and install it via krew.
 
@@ -99,7 +99,7 @@ Now, `awesome-kubectl-plugins` is not just a list of awesome kubectl plugins (wi
 | 33  | [kubectl-topology](https://github.com/bmcustodio/kubectl-topology) ⭐ 35 \| 🐛 3 \| 🌐 Go \| 📅 2023-01-14                                                               | A kubectl plugin that provides insight into the topology of a Kubernetes cluster.                                                | Visibility                  | [![GitHub stars](https://img.shields.io/github/stars/bmcustodio/kubectl-topology)](https://github.com/bmcustodio/kubectl-topology/stargazers) ⭐ 35 \| 🐛 3 \| 🌐 Go \| 📅 2023-01-14                                                                  |
 | 34  | [Pod-Dive](https://github.com/caiobegotti/Pod-Dive) ⭐ 61 \| 🐛 4 \| 🌐 Go \| 📅 2023-05-16                                                                              | A kubectl plugin to dive into your Kubernetes nodes pods, and inspect them.                                                      | Visibility                  | [![GitHub stars](https://img.shields.io/github/stars/caiobegotti/Pod-Dive)](https://github.com/caiobegotti/Pod-Dive/stargazers) ⭐ 61 \| 🐛 4 \| 🌐 Go \| 📅 2023-05-16                                                                                |
 | 35  | [kubectl-dashboard](https://github.com/bouk/kubectl-dashboard) ⭐ 17 \| 🐛 0 \| 🌐 Go \| 📅 2020-07-01                                                                   | Instantly get a Kubernetes dashboard                                                                                             | Visibility                  | [![GitHub stars](https://img.shields.io/github/stars/bouk/kubectl-dashboard)](https://github.com/bouk/kubectl-dashboard/stargazers) ⭐ 17 \| 🐛 0 \| 🌐 Go \| 📅 2020-07-01                                                                            |
-| 36  | [kubelogin](https://github.com/int128/kubelogin) ⭐ 2,351 \| 🐛 119 \| 🌐 Go \| 📅 2026-08-27                                                                            | kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)                                                 | Authn/Authz                 | [![GitHub stars](https://img.shields.io/github/stars/int128/kubelogin)](https://github.com/int128/kubelogin/stargazers) ⭐ 2,351 \| 🐛 119 \| 🌐 Go \| 📅 2026-08-27                                                                                   |
+| 36  | [kubelogin](https://github.com/int128/kubelogin) ⭐ 2,351 \| 🐛 121 \| 🌐 Go \| 📅 2026-08-29                                                                            | kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)                                                 | Authn/Authz                 | [![GitHub stars](https://img.shields.io/github/stars/int128/kubelogin)](https://github.com/int128/kubelogin/stargazers) ⭐ 2,351 \| 🐛 121 \| 🌐 Go \| 📅 2026-08-29                                                                                   |
 | 37  | [k8s-pixy-auth](https://github.com/auth0/k8s-pixy-auth) ⚠️ Archived                                                                                                     | k8s plugin to authenticate against an OIDC compatible issuer using PKCE (pixy) flow                                              | Authn/Authz                 | [![GitHub stars](https://img.shields.io/github/stars/auth0/k8s-pixy-auth)](https://github.com/auth0/k8s-pixy-auth/stargazers) ⚠️ Archived                                                                                                             |
 | 38  | [kubectl-login](https://github.com/sdrozdkov/kubectl-login) ⭐ 5 \| 🐛 0 \| 🌐 Go \| 📅 2018-11-08                                                                       | Kubectl plugin for re-authenticate into OpenID Connect Provider via CLI                                                          | Authn/Authz                 | [![GitHub stars](https://img.shields.io/github/stars/sdrozdkov/kubectl-login)](https://github.com/sdrozdkov/kubectl-login/stargazers) ⭐ 5 \| 🐛 0 \| 🌐 Go \| 📅 2018-11-08                                                                           |
 | 39  | [zjj2wry kubectl-login](https://github.com/zjj2wry/kubectl-login) ⭐ 1 \| 🐛 0 \| 🌐 Go \| 📅 2018-09-04                                                                 | The kubectl plugin is used to login to the kubernetes cluster by oidc authentication.                                            | Authn/Authz                 | [![GitHub stars](https://img.shields.io/github/stars/zjj2wry/kubectl-login)](https://github.com/zjj2wry/kubectl-login/stargazers) ⭐ 1 \| 🐛 0 \| 🌐 Go \| 📅 2018-09-04                                                                               |
@@ -187,4 +187,4 @@ Now, `awesome-kubectl-plugins` is not just a list of awesome kubectl plugins (wi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -10,12 +10,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Review Access - kubectl plugin to show an access matrix for k8s server resources",
+            "homepage": null,
             "id": 172054938,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-05T05:00:24Z",
+            "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1402
+            "stars": 1402,
+            "topics": [
+              "authorization",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "rbac",
+              "rbac-management"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -26,12 +40,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Review Access - kubectl plugin to show an access matrix for k8s server resources",
+            "homepage": null,
             "id": 172054938,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-05T05:00:24Z",
+            "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1402
+            "stars": 1402,
+            "topics": [
+              "authorization",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "rbac",
+              "rbac-management"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -42,12 +70,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show who has RBAC permissions to perform actions on different resources in Kubernetes",
+            "homepage": null,
             "id": 175985633,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-17T11:59:27Z",
+            "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 917
+            "stars": 917,
+            "topics": [
+              "kubectl",
+              "kubernetes",
+              "kubernetes-rbac",
+              "rbac"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -58,12 +96,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show who has RBAC permissions to perform actions on different resources in Kubernetes",
+            "homepage": null,
             "id": 175985633,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-17T11:59:27Z",
+            "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 917
+            "stars": 917,
+            "topics": [
+              "kubectl",
+              "kubernetes",
+              "kubernetes-rbac",
+              "rbac"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -74,12 +122,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean up Kubernetes yaml and json output to make it readable",
+            "homepage": null,
             "id": 198226595,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-05T02:37:08Z",
+            "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2101
+            "stars": 2101,
+            "topics": [
+              "hacktoberfest",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -90,12 +147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clean up Kubernetes yaml and json output to make it readable",
+            "homepage": null,
             "id": 198226595,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-05T02:37:08Z",
+            "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2101
+            "stars": 2101,
+            "topics": [
+              "hacktoberfest",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -106,12 +172,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sort manfest files in a proper order by Kind",
+            "homepage": null,
             "id": 117810202,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-29T02:34:28Z",
+            "open_issues": 1,
             "owner": "superbrothers",
             "repo": "ksort",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -122,12 +196,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sort manfest files in a proper order by Kind",
+            "homepage": null,
             "id": 117810202,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-29T02:34:28Z",
+            "open_issues": 1,
             "owner": "superbrothers",
             "repo": "ksort",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -138,12 +220,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.",
+            "homepage": null,
             "id": 162127381,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T02:52:57Z",
+            "open_issues": 62,
             "owner": "aylei",
             "repo": "kubectl-debug",
-            "stars": 2302
+            "stars": 2302,
+            "topics": [
+              "debug",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -154,12 +247,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is no longer maintained, please checkout https://github.com/JamesTGrant/kubectl-debug.",
+            "homepage": null,
             "id": 162127381,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-19T02:52:57Z",
+            "open_issues": 62,
             "owner": "aylei",
             "repo": "kubectl-debug",
-            "stars": 2302
+            "stars": 2302,
+            "topics": [
+              "debug",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -170,12 +274,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "continuous profiling made easy in Kubernetes with profefe",
+            "homepage": "https://kubernetes.profefe.dev/",
             "id": 226109285,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-10-31T15:14:44Z",
+            "open_issues": 8,
             "owner": "profefe",
             "repo": "kube-profefe",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "golang",
+              "kubernetes",
+              "performance",
+              "pprof"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -186,12 +300,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "continuous profiling made easy in Kubernetes with profefe",
+            "homepage": "https://kubernetes.profefe.dev/",
             "id": 226109285,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-10-31T15:14:44Z",
+            "open_issues": 8,
             "owner": "profefe",
             "repo": "kube-profefe",
-            "stars": 79
+            "stars": 79,
+            "topics": [
+              "golang",
+              "kubernetes",
+              "performance",
+              "pprof"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -202,12 +326,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark",
+            "homepage": null,
             "id": 137678747,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-02T03:16:37Z",
+            "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3473
+            "stars": 3473,
+            "topics": [
+              "debugging",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "sniffing",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -218,12 +354,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to ease sniffing on kubernetes pods using tcpdump and wireshark",
+            "homepage": null,
             "id": 137678747,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-02T03:16:37Z",
+            "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3473
+            "stars": 3473,
+            "topics": [
+              "debugging",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "sniffing",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -234,12 +382,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for rendering details of Network Policies.",
+            "homepage": null,
             "id": 191256829,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-13T21:37:04Z",
+            "open_issues": 2,
             "owner": "bmuschko",
             "repo": "kubectl-swiftnp",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -250,12 +408,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for rendering details of Network Policies.",
+            "homepage": null,
             "id": 191256829,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-13T21:37:04Z",
+            "open_issues": 2,
             "owner": "bmuschko",
             "repo": "kubectl-swiftnp",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -266,12 +434,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schedule bpftrace programs on your kubernetes cluster using the kubectl",
+            "homepage": null,
             "id": 158594821,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-16T20:47:34Z",
+            "open_issues": 49,
             "owner": "iovisor",
             "repo": "kubectl-trace",
-            "stars": 2186
+            "stars": 2186,
+            "topics": [
+              "bpf",
+              "bpftrace",
+              "ebpf",
+              "ebpf-programs",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubectl-trace",
+              "kubernetes-cluster",
+              "trace",
+              "tracepoints"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -282,12 +467,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Schedule bpftrace programs on your kubernetes cluster using the kubectl",
+            "homepage": null,
             "id": 158594821,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-16T20:47:34Z",
+            "open_issues": 49,
             "owner": "iovisor",
             "repo": "kubectl-trace",
-            "stars": 2186
+            "stars": 2186,
+            "topics": [
+              "bpf",
+              "bpftrace",
+              "ebpf",
+              "ebpf-programs",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubectl-trace",
+              "kubernetes-cluster",
+              "trace",
+              "tracepoints"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -298,12 +500,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin which triggers a Sysdig capture",
+            "homepage": "https://sysdig.com/opensource/inspect/",
             "id": 170356233,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-16T00:13:45Z",
+            "open_issues": 14,
             "owner": "sysdiglabs",
             "repo": "kubectl-capture",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "sysdig"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -314,12 +526,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin which triggers a Sysdig capture",
+            "homepage": "https://sysdig.com/opensource/inspect/",
             "id": 170356233,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-16T00:13:45Z",
+            "open_issues": 14,
             "owner": "sysdiglabs",
             "repo": "kubectl-capture",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "sysdig"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -330,12 +552,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple kubectl binary plugin for PVC operations",
+            "homepage": null,
             "id": 124880561,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-16T19:24:04Z",
+            "open_issues": 3,
             "owner": "fabiand",
             "repo": "kubectl-plugin-pvc",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes",
+              "pvc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -346,12 +577,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple kubectl binary plugin for PVC operations",
+            "homepage": null,
             "id": 124880561,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-08-16T19:24:04Z",
+            "open_issues": 3,
             "owner": "fabiand",
             "repo": "kubectl-plugin-pvc",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes",
+              "pvc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -362,12 +602,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List and show disk resources of images on Kubernetes nodes.",
+            "homepage": null,
             "id": 191521685,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-06-17T06:14:17Z",
+            "open_issues": 1,
             "owner": "makocchi-git",
             "repo": "kubectl-dfi",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -378,12 +629,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "List and show disk resources of images on Kubernetes nodes.",
+            "homepage": null,
             "id": 191521685,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-06-17T06:14:17Z",
+            "open_issues": 1,
             "owner": "makocchi-git",
             "repo": "kubectl-dfi",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -394,12 +656,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugint to see PVCs which are not in \"Bound\" state",
+            "homepage": null,
             "id": 224233498,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-28T10:03:00Z",
+            "open_issues": 0,
             "owner": "ishantanu",
             "repo": "kubectl-unbound-pvc",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -410,12 +680,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugint to see PVCs which are not in \"Bound\" state",
+            "homepage": null,
             "id": 224233498,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-28T10:03:00Z",
+            "open_issues": 0,
             "owner": "ishantanu",
             "repo": "kubectl-unbound-pvc",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -426,12 +704,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin - giving admins df (disk free) like utility for persistent volumes",
+            "homepage": null,
             "id": 224654497,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T01:53:54Z",
+            "open_issues": 11,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "df",
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "persistent-volume-claims",
+              "persistent-volumes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -442,12 +733,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin - giving admins df (disk free) like utility for persistent volumes",
+            "homepage": null,
             "id": 224654497,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T01:53:54Z",
+            "open_issues": 11,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 499
+            "stars": 499,
+            "topics": [
+              "df",
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "persistent-volume-claims",
+              "persistent-volumes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -458,12 +762,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to find and report outdated images running in a Kubernetes cluster",
+            "homepage": "https://outdated.sh",
             "id": 200257453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-28T14:43:39Z",
+            "open_issues": 21,
             "owner": "replicatedhq",
             "repo": "outdated",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -474,12 +787,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to find and report outdated images running in a Kubernetes cluster",
+            "homepage": "https://outdated.sh",
             "id": 200257453,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-28T14:43:39Z",
+            "open_issues": 21,
             "owner": "replicatedhq",
             "repo": "outdated",
-            "stars": 438
+            "stars": 438,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -490,12 +812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security risk analysis for Kubernetes resources",
+            "homepage": "https://kubesec.io",
             "id": 132581351,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-23T16:14:13Z",
+            "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 518
+            "stars": 518,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -506,12 +833,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Security risk analysis for Kubernetes resources",
+            "homepage": "https://kubesec.io",
             "id": 132581351,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-23T16:14:13Z",
+            "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 518
+            "stars": 518,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -522,12 +854,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to duplicate resources in a Kubernetes cluster.",
+            "homepage": null,
             "id": 799269879,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T08:40:33Z",
+            "open_issues": 2,
             "owner": "Telemaco019",
             "repo": "duplik8s",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -538,12 +880,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to duplicate resources in a Kubernetes cluster.",
+            "homepage": null,
             "id": 799269879,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-09T08:40:33Z",
+            "open_issues": 2,
             "owner": "Telemaco019",
             "repo": "duplik8s",
-            "stars": 71
+            "stars": 71,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -554,12 +906,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exec into node via kubectl",
+            "homepage": null,
             "id": 175691263,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T18:44:27Z",
+            "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1835
+            "stars": 1835,
+            "topics": [
+              "kubectl",
+              "kubectl-enter",
+              "kubectl-node-shell",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "nsenter"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -570,12 +935,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Exec into node via kubectl",
+            "homepage": null,
             "id": 175691263,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-04T18:44:27Z",
+            "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1835
+            "stars": 1835,
+            "topics": [
+              "kubectl",
+              "kubectl-enter",
+              "kubectl-node-shell",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "nsenter"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -586,12 +964,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to interactively exec into a pod",
+            "homepage": null,
             "id": 182160901,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-21T12:49:46Z",
+            "open_issues": 7,
             "owner": "gabeduke",
             "repo": "kubectl-iexec",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -602,12 +990,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to interactively exec into a pod",
+            "homepage": null,
             "id": 182160901,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-01-21T12:49:46Z",
+            "open_issues": 7,
             "owner": "gabeduke",
             "repo": "kubectl-iexec",
-            "stars": 144
+            "stars": 144,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -618,12 +1016,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to ssh into a pod's node",
+            "homepage": null,
             "id": 196738109,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-07-13T20:58:23Z",
+            "open_issues": 1,
             "owner": "IuryAlves",
             "repo": "kubectl-ssh",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -634,12 +1041,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to ssh into a pod's node",
+            "homepage": null,
             "id": 196738109,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-07-13T20:58:23Z",
+            "open_issues": 1,
             "owner": "IuryAlves",
             "repo": "kubectl-ssh",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -650,12 +1066,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script and kubectl plugin which makes it easier to ssh into nodes within your cluster.",
+            "homepage": null,
             "id": 137421549,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-05-19T04:32:40Z",
+            "open_issues": 0,
             "owner": "marjamis",
             "repo": "kubectl-kcn",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -666,12 +1091,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A script and kubectl plugin which makes it easier to ssh into nodes within your cluster.",
+            "homepage": null,
             "id": 137421549,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-05-19T04:32:40Z",
+            "open_issues": 0,
             "owner": "marjamis",
             "repo": "kubectl-kcn",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -682,12 +1116,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " kubectl plugin to simplify interactive exec command.",
+            "homepage": null,
             "id": 156378855,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-06T20:30:09Z",
+            "open_issues": 0,
             "owner": "duyguserbest",
             "repo": "kubectl-iexec",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -698,12 +1141,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " kubectl plugin to simplify interactive exec command.",
+            "homepage": null,
             "id": 156378855,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-11-06T20:30:09Z",
+            "open_issues": 0,
             "owner": "duyguserbest",
             "repo": "kubectl-iexec",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -714,12 +1166,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to execute a command in all running pods of a resource (daemonset, deployment, statefulset, etc)",
+            "homepage": null,
             "id": 142968617,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-17T09:39:55Z",
+            "open_issues": 4,
             "owner": "jpdasma",
             "repo": "kubectl-exec-all",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -730,12 +1189,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to execute a command in all running pods of a resource (daemonset, deployment, statefulset, etc)",
+            "homepage": null,
             "id": 142968617,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2019-02-17T09:39:55Z",
+            "open_issues": 4,
             "owner": "jpdasma",
             "repo": "kubectl-exec-all",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -746,12 +1212,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple kubectl plugin to take pod name, SSH onto node and spawn an nsenter shell ",
+            "homepage": null,
             "id": 181771833,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-06-17T16:42:15Z",
+            "open_issues": 0,
             "owner": "towolf",
             "repo": "kubectl-nsenter",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "debugging",
+              "kubectl",
+              "kubectl-plugins",
+              "nsenter"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -762,12 +1238,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple kubectl plugin to take pod name, SSH onto node and spawn an nsenter shell ",
+            "homepage": null,
             "id": 181771833,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-06-17T16:42:15Z",
+            "open_issues": 0,
             "owner": "towolf",
             "repo": "kubectl-nsenter",
-            "stars": 13
+            "stars": 13,
+            "topics": [
+              "debugging",
+              "kubectl",
+              "kubectl-plugins",
+              "nsenter"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -778,12 +1264,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny plugin for connecting to node in the cluster over SSH",
+            "homepage": null,
             "id": 175835847,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-15T14:43:19Z",
+            "open_issues": 0,
             "owner": "kvaps",
             "repo": "kubectl-ssh",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -794,12 +1289,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tiny plugin for connecting to node in the cluster over SSH",
+            "homepage": null,
             "id": 175835847,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-15T14:43:19Z",
+            "open_issues": 0,
             "owner": "kvaps",
             "repo": "kubectl-ssh",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "ssh"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -810,12 +1314,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes",
+            "homepage": null,
             "id": 162389400,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-04T21:12:14Z",
+            "open_issues": 10,
             "owner": "ernoaapa",
             "repo": "kubectl-warp",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "rsync"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -826,12 +1341,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes CLI plugin for syncing and executing local files in Pod on Kubernetes",
+            "homepage": null,
             "id": 162389400,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-04-04T21:12:14Z",
+            "open_issues": 10,
             "owner": "ernoaapa",
             "repo": "kubectl-warp",
-            "stars": 313
+            "stars": 313,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "rsync"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -842,12 +1368,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to access nodes or remote services using a SSH jump Pod",
+            "homepage": null,
             "id": 167761778,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-15T09:53:00Z",
+            "open_issues": 1,
             "owner": "yokawasa",
             "repo": "kubectl-plugin-ssh-jump",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "ssh",
+              "ssh-agent"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -858,12 +1396,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to access nodes or remote services using a SSH jump Pod",
+            "homepage": null,
             "id": 167761778,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-15T09:53:00Z",
+            "open_issues": 1,
             "owner": "yokawasa",
             "repo": "kubectl-plugin-ssh-jump",
-            "stars": 186
+            "stars": 186,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "ssh",
+              "ssh-agent"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -874,12 +1424,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Attach to the pod matching the label with Tmux",
+            "homepage": null,
             "id": 191769520,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-06-23T03:12:53Z",
+            "open_issues": 0,
             "owner": "TrsNium",
             "repo": "kubectl-texec",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -890,12 +1448,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Attach to the pod matching the label with Tmux",
+            "homepage": null,
             "id": 191769520,
             "language": null,
+            "license": "MIT",
             "last_commit": "2019-06-23T03:12:53Z",
+            "open_issues": 0,
             "owner": "TrsNium",
             "repo": "kubectl-texec",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -906,12 +1472,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep kubernetes visibility from the kubectl",
+            "homepage": null,
             "id": 187535556,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-12-18T21:53:45Z",
+            "open_issues": 16,
             "owner": "sysdiglabs",
             "repo": "kubectl-dig",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "containers",
+              "kubectl-plugins",
+              "kubernetes",
+              "monitoring",
+              "o11y",
+              "observability",
+              "syscalls"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -922,12 +1501,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deep kubernetes visibility from the kubectl",
+            "homepage": null,
             "id": 187535556,
             "language": "Go",
+            "license": null,
             "last_commit": "2023-12-18T21:53:45Z",
+            "open_issues": 16,
             "owner": "sysdiglabs",
             "repo": "kubectl-dig",
-            "stars": 386
+            "stars": 386,
+            "topics": [
+              "containers",
+              "kubectl-plugins",
+              "kubernetes",
+              "monitoring",
+              "o11y",
+              "observability",
+              "syscalls"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -938,12 +1530,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility tool for observing k8s resources.",
+            "homepage": null,
             "id": 182734507,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-09T22:09:31Z",
+            "open_issues": 0,
             "owner": "metrosystems-cpe",
             "repo": "kubectl-utility",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "audit",
+              "auditing",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes-plugin",
+              "logging",
+              "pod",
+              "python",
+              "python3",
+              "script",
+              "tail"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -954,12 +1565,31 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Utility tool for observing k8s resources.",
+            "homepage": null,
             "id": 182734507,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2019-10-09T22:09:31Z",
+            "open_issues": 0,
             "owner": "metrosystems-cpe",
             "repo": "kubectl-utility",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "audit",
+              "auditing",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes-plugin",
+              "logging",
+              "pod",
+              "python",
+              "python3",
+              "script",
+              "tail"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -970,12 +1600,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to visualize Kubernetes resources and relationships.",
+            "homepage": null,
             "id": 240712313,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:22:50Z",
+            "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 696
+            "stars": 696,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -986,12 +1621,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to visualize Kubernetes resources and relationships.",
+            "homepage": null,
             "id": 240712313,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T16:22:50Z",
+            "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 696
+            "stars": 696,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1002,12 +1642,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)",
+            "homepage": null,
             "id": 229827299,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T01:23:56Z",
+            "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3420
+            "stars": 3420,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1018,12 +1667,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to browse Kubernetes object hierarchies as a tree 🎄 (star the repo if you are using)",
+            "homepage": null,
             "id": 229827299,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T01:23:56Z",
+            "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3420
+            "stars": 3420,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1034,12 +1692,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 'kubectl' plugin that provides insight into the topology of a Kubernetes cluster.",
+            "homepage": null,
             "id": 240540693,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-14T14:04:10Z",
+            "open_issues": 3,
             "owner": "bmcustodio",
             "repo": "kubectl-topology",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "krew",
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1050,12 +1720,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 'kubectl' plugin that provides insight into the topology of a Kubernetes cluster.",
+            "homepage": null,
             "id": 240540693,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-01-14T14:04:10Z",
+            "open_issues": 3,
             "owner": "bmcustodio",
             "repo": "kubectl-topology",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "krew",
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1066,12 +1748,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to dive into your Kubernetes nodes pods, and inspect them.",
+            "homepage": null,
             "id": 227899580,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-16T14:44:38Z",
+            "open_issues": 4,
             "owner": "caiobegotti",
             "repo": "Pod-Dive",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "client-go",
+              "k8s-sig-cli",
+              "krew-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-nodes-workloads"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1082,12 +1776,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to dive into your Kubernetes nodes pods, and inspect them.",
+            "homepage": null,
             "id": 227899580,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-05-16T14:44:38Z",
+            "open_issues": 4,
             "owner": "caiobegotti",
             "repo": "Pod-Dive",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "client-go",
+              "k8s-sig-cli",
+              "krew-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-nodes-workloads"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1098,12 +1804,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantly get a Kubernetes dashboard",
+            "homepage": null,
             "id": 165281289,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-07-01T09:27:59Z",
+            "open_issues": 0,
             "owner": "bouk",
             "repo": "kubectl-dashboard",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1114,12 +1830,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Instantly get a Kubernetes dashboard",
+            "homepage": null,
             "id": 165281289,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-07-01T09:27:59Z",
+            "open_issues": 0,
             "owner": "bouk",
             "repo": "kubectl-dashboard",
-            "stars": 17
+            "stars": 17,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1130,12 +1856,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)",
+            "homepage": null,
             "id": 126163087,
             "language": "Go",
-            "last_commit": "2026-08-27T17:53:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:51:01Z",
+            "open_issues": 121,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2351
+            "stars": 2351,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc",
+              "openid-connect"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1146,12 +1884,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)",
+            "homepage": null,
             "id": 126163087,
             "language": "Go",
-            "last_commit": "2026-08-27T17:53:27Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T00:51:01Z",
+            "open_issues": 121,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2351
+            "stars": 2351,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc",
+              "openid-connect"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1162,12 +1912,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "k8s plugin to authenticate against an OIDC compatible issuer using PKCE (pixy) flow",
+            "homepage": null,
             "id": 152089088,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-05-02T19:41:30Z",
+            "open_issues": 4,
             "owner": "auth0",
             "repo": "k8s-pixy-auth",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "auth",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc",
+              "pkce"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1178,12 +1939,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "k8s plugin to authenticate against an OIDC compatible issuer using PKCE (pixy) flow",
+            "homepage": null,
             "id": 152089088,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-05-02T19:41:30Z",
+            "open_issues": 4,
             "owner": "auth0",
             "repo": "k8s-pixy-auth",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "auth",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc",
+              "pkce"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1194,12 +1966,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin for re-authenticate into OpenID Connect Provider via CLI",
+            "homepage": null,
             "id": 156736697,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-11-08T18:25:25Z",
+            "open_issues": 0,
             "owner": "sdrozdkov",
             "repo": "kubectl-login",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "auth",
+              "authentication",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1210,12 +1995,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin for re-authenticate into OpenID Connect Provider via CLI",
+            "homepage": null,
             "id": 156736697,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2018-11-08T18:25:25Z",
+            "open_issues": 0,
             "owner": "sdrozdkov",
             "repo": "kubectl-login",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "auth",
+              "authentication",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1226,12 +2024,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The kubectl plugin is used to login to the kubernetes cluster by oidc authentication.",
+            "homepage": null,
             "id": 147148038,
             "language": "Go",
+            "license": null,
             "last_commit": "2018-09-04T11:24:45Z",
+            "open_issues": 0,
             "owner": "zjj2wry",
             "repo": "kubectl-login",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "authenticate",
+              "authentication",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1242,12 +2052,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The kubectl plugin is used to login to the kubernetes cluster by oidc authentication.",
+            "homepage": null,
             "id": 147148038,
             "language": "Go",
+            "license": null,
             "last_commit": "2018-09-04T11:24:45Z",
+            "open_issues": 0,
             "owner": "zjj2wry",
             "repo": "kubectl-login",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "authenticate",
+              "authentication",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "oidc"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1258,12 +2080,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for integration with pass (the standard unix password manager)",
+            "homepage": null,
             "id": 197019447,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-07-16T05:52:54Z",
+            "open_issues": 1,
             "owner": "rafi",
             "repo": "kubectl-pass",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "auth",
+              "k8s",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "pass"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1274,12 +2108,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for integration with pass (the standard unix password manager)",
+            "homepage": null,
             "id": 197019447,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-07-16T05:52:54Z",
+            "open_issues": 1,
             "owner": "rafi",
             "repo": "kubectl-pass",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "auth",
+              "k8s",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "pass"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1290,12 +2136,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 196567734,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-11T23:26:02Z",
+            "open_issues": 1,
             "owner": "pr8kerl",
             "repo": "kubectl-ssm-secret",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "eks",
+              "kubectl-plugins",
+              "kubernetes",
+              "parameter-store",
+              "secrets",
+              "ssm"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1306,12 +2164,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 196567734,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2023-10-11T23:26:02Z",
+            "open_issues": 1,
             "owner": "pr8kerl",
             "repo": "kubectl-ssm-secret",
-            "stars": 29
+            "stars": 29,
+            "topics": [
+              "eks",
+              "kubectl-plugins",
+              "kubernetes",
+              "parameter-store",
+              "secrets",
+              "ssm"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1322,12 +2192,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to decode Kubernetes secrets",
+            "homepage": null,
             "id": 139834633,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-07T22:36:08Z",
+            "open_issues": 0,
             "owner": "brosandilabs",
             "repo": "kubectl-decode-secret",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "base64",
+              "decode",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "plugins",
+              "secrets"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1338,12 +2221,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to decode Kubernetes secrets",
+            "homepage": null,
             "id": 139834633,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-07T22:36:08Z",
+            "open_issues": 0,
             "owner": "brosandilabs",
             "repo": "kubectl-decode-secret",
-            "stars": 1
+            "stars": 1,
+            "topics": [
+              "base64",
+              "decode",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "plugins",
+              "secrets"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1354,12 +2250,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for kubectl to support reading and writing secrets directly from/to gopass",
+            "homepage": null,
             "id": 202395592,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-10-20T21:34:41Z",
+            "open_issues": 1,
             "owner": "gopasspw",
             "repo": "kubectl-gopass",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "gopass",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "password",
+              "secrets"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1370,12 +2278,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for kubectl to support reading and writing secrets directly from/to gopass",
+            "homepage": null,
             "id": 202395592,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2020-10-20T21:34:41Z",
+            "open_issues": 1,
             "owner": "gopasspw",
             "repo": "kubectl-gopass",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "gopass",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "password",
+              "secrets"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1386,12 +2306,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-modify-secrets allows user to directly modify the secret without worrying about base64 encoding/decoding",
+            "homepage": null,
             "id": 210006932,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-06T01:38:15Z",
+            "open_issues": 11,
             "owner": "rajatjindal",
             "repo": "kubectl-modify-secret",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "kubectl",
+              "kubectl-modify-secrets",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1402,12 +2332,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-modify-secrets allows user to directly modify the secret without worrying about base64 encoding/decoding",
+            "homepage": null,
             "id": 210006932,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-06T01:38:15Z",
+            "open_issues": 11,
             "owner": "rajatjindal",
             "repo": "kubectl-modify-secret",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "kubectl",
+              "kubectl-modify-secrets",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1418,12 +2358,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for interactively changing the kubeconfig context",
+            "homepage": null,
             "id": 169791572,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-12-29T11:39:18Z",
+            "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ctx",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1434,12 +2383,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for interactively changing the kubeconfig context",
+            "homepage": null,
             "id": 169791572,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-12-29T11:39:18Z",
+            "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ctx",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1450,12 +2408,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for interactively switching between namespaces in your cluster",
+            "homepage": null,
             "id": 169795135,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-12-29T11:40:39Z",
+            "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ns",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1466,12 +2433,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for interactively switching between namespaces in your cluster",
+            "homepage": null,
             "id": 169795135,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-12-29T11:40:39Z",
+            "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ns",
-            "stars": 38
+            "stars": 38,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1482,12 +2458,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "light kubectl plugin that prompts user to select config context",
+            "homepage": null,
             "id": 194908631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-05T17:34:23Z",
+            "open_issues": 0,
             "owner": "stefanm8",
             "repo": "kubectl-select-context",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1498,12 +2483,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "light kubectl plugin that prompts user to select config context",
+            "homepage": null,
             "id": 194908631,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2020-04-05T17:34:23Z",
+            "open_issues": 0,
             "owner": "stefanm8",
             "repo": "kubectl-select-context",
-            "stars": 0
+            "stars": 0,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1514,12 +2508,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for simple switch kubernetes contexts and namespaces",
+            "homepage": null,
             "id": 192702535,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T10:31:58Z",
+            "open_issues": 2,
             "owner": "kvaps",
             "repo": "kubectl-use",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1530,12 +2534,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for simple switch kubernetes contexts and namespaces",
+            "homepage": null,
             "id": 192702535,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T10:31:58Z",
+            "open_issues": 2,
             "owner": "kvaps",
             "repo": "kubectl-use",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1546,12 +2560,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "homepage": "https://kubectx.dev",
             "id": 86733463,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:42:33Z",
+            "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19964
+            "stars": 19964,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1562,12 +2586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Faster way to switch between clusters and namespaces in kubectl",
+            "homepage": "https://kubectx.dev",
             "id": 86733463,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:42:33Z",
+            "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19964
+            "stars": 19964,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1578,12 +2612,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple kubectl plugin to display/switch namespaces",
+            "homepage": null,
             "id": 151578175,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-08T06:13:33Z",
+            "open_issues": 0,
             "owner": "postfinance",
             "repo": "kubectl-ns",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1594,12 +2638,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple kubectl plugin to display/switch namespaces",
+            "homepage": null,
             "id": 151578175,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2022-09-08T06:13:33Z",
+            "open_issues": 0,
             "owner": "postfinance",
             "repo": "kubectl-ns",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1610,12 +2664,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for simple switch kubernetes contexts and namespaces",
+            "homepage": null,
             "id": 192702535,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T10:31:58Z",
+            "open_issues": 2,
             "owner": "kvaps",
             "repo": "kubectl-use",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1626,12 +2690,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin for simple switch kubernetes contexts and namespaces",
+            "homepage": null,
             "id": 192702535,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-29T10:31:58Z",
+            "open_issues": 2,
             "owner": "kvaps",
             "repo": "kubectl-use",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1642,12 +2716,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes multi-cluster command-line management tool",
+            "homepage": null,
             "id": 183898528,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-12T10:39:58Z",
+            "open_issues": 0,
             "owner": "imyuliz",
             "repo": "kubectl-switch",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1658,12 +2742,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes multi-cluster command-line management tool",
+            "homepage": null,
             "id": 183898528,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-12T10:39:58Z",
+            "open_issues": 0,
             "owner": "imyuliz",
             "repo": "kubectl-switch",
-            "stars": 9
+            "stars": 9,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1674,12 +2768,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes multi-cluster command-line management tool",
+            "homepage": null,
             "id": 185316129,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-12T10:57:41Z",
+            "open_issues": 0,
             "owner": "caas-one",
             "repo": "kubectl-switch",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubectl-switch",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1690,12 +2794,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes multi-cluster command-line management tool",
+            "homepage": null,
             "id": 185316129,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-12T10:57:41Z",
+            "open_issues": 0,
             "owner": "caas-one",
             "repo": "kubectl-switch",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubectl-switch",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1706,12 +2820,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly view or change the current namespace via kubectl.",
+            "homepage": null,
             "id": 161542066,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-21T22:03:01Z",
+            "open_issues": 4,
             "owner": "juanvallejo",
             "repo": "kubectl-ns",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1722,12 +2846,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly view or change the current namespace via kubectl.",
+            "homepage": null,
             "id": 161542066,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-21T22:03:01Z",
+            "open_issues": 4,
             "owner": "juanvallejo",
             "repo": "kubectl-ns",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1738,12 +2872,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "EKS MFA kubeconfig management tool. Thin wrapper for kubectl.",
+            "homepage": null,
             "id": 205267785,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-02-25T18:21:17Z",
+            "open_issues": 1,
             "owner": "cststack",
             "repo": "km",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "eks",
+              "eks-cluster",
+              "eks-kubeconfig",
+              "eks-kubeconfig-management",
+              "kubeconfig",
+              "kubectl",
+              "kubectl-plugins",
+              "kubectl-switch",
+              "kubernetes",
+              "ykman",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1754,12 +2905,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "EKS MFA kubeconfig management tool. Thin wrapper for kubectl.",
+            "homepage": null,
             "id": 205267785,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2025-02-25T18:21:17Z",
+            "open_issues": 1,
             "owner": "cststack",
             "repo": "km",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "eks",
+              "eks-cluster",
+              "eks-kubeconfig",
+              "eks-kubeconfig-management",
+              "kubeconfig",
+              "kubectl",
+              "kubectl-plugins",
+              "kubectl-switch",
+              "kubernetes",
+              "ykman",
+              "yubikey"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1770,12 +2938,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like `kubectl get all`, but get really all resources",
+            "homepage": null,
             "id": 170769233,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-06T15:08:38Z",
+            "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "get",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "overview",
+              "resource-list",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1786,12 +2968,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Like `kubectl get all`, but get really all resources",
+            "homepage": null,
             "id": 170769233,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-06T15:08:38Z",
+            "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 756
+            "stars": 756,
+            "topics": [
+              "get",
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "overview",
+              "resource-list",
+              "resources"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1802,12 +2998,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filter Kubernetes resources by matching their names",
+            "homepage": null,
             "id": 170360309,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T08:59:12Z",
+            "open_issues": 0,
             "owner": "guessi",
             "repo": "kubectl-grep",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "github-actions",
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1818,12 +3025,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Filter Kubernetes resources by matching their names",
+            "homepage": null,
             "id": 170360309,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T08:59:12Z",
+            "open_issues": 0,
             "owner": "guessi",
             "repo": "kubectl-grep",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "github-actions",
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1834,12 +3052,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to list all resources in given namespace",
+            "homepage": null,
             "id": 170879587,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-02-15T14:49:10Z",
+            "open_issues": 0,
             "owner": "kajanth",
             "repo": "kubectl-all",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1850,12 +3076,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to list all resources in given namespace",
+            "homepage": null,
             "id": 170879587,
             "language": "Shell",
+            "license": null,
             "last_commit": "2019-02-15T14:49:10Z",
+            "open_issues": 0,
             "owner": "kajanth",
             "repo": "kubectl-all",
-            "stars": 3
+            "stars": 3,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1866,12 +3100,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watches Kubernetes resources",
+            "homepage": null,
             "id": 187380453,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-08-21T05:57:47Z",
+            "open_issues": 2,
             "owner": "lee0c",
             "repo": "kubectl-watch",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1882,12 +3128,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Watches Kubernetes resources",
+            "homepage": null,
             "id": 187380453,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-08-21T05:57:47Z",
+            "open_issues": 2,
             "owner": "lee0c",
             "repo": "kubectl-watch",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "utility"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1898,12 +3156,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a kubectl plugin that help you customize output columns like a boss !",
+            "homepage": null,
             "id": 201554115,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-06T11:18:07Z",
+            "open_issues": 0,
             "owner": "webofmars",
             "repo": "kubectl-custom-cols",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cli",
+              "columns",
+              "hacktoberfest",
+              "krew",
+              "kubectl",
+              "kubectl-custom-cols",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "output"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1914,12 +3188,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a kubectl plugin that help you customize output columns like a boss !",
+            "homepage": null,
             "id": 201554115,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-06T11:18:07Z",
+            "open_issues": 0,
             "owner": "webofmars",
             "repo": "kubectl-custom-cols",
-            "stars": 19
+            "stars": 19,
+            "topics": [
+              "cli",
+              "columns",
+              "hacktoberfest",
+              "krew",
+              "kubectl",
+              "kubectl-custom-cols",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "output"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1930,12 +3220,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search pods faster in kubectl",
+            "homepage": null,
             "id": 183132125,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-24T15:37:40Z",
+            "open_issues": 1,
             "owner": "karancode",
             "repo": "kubepod",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubec",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1946,12 +3245,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Search pods faster in kubectl",
+            "homepage": null,
             "id": 183132125,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2019-04-24T15:37:40Z",
+            "open_issues": 1,
             "owner": "karancode",
             "repo": "kubepod",
-            "stars": 4
+            "stars": 4,
+            "topics": [
+              "kubec",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1962,12 +3270,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin to access Kubernetes resource requests, limits, and usage.",
+            "homepage": null,
             "id": 193801143,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-13T05:34:16Z",
+            "open_issues": 7,
             "owner": "howardjohn",
             "repo": "kubectl-resources",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1978,12 +3295,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Plugin to access Kubernetes resource requests, limits, and usage.",
+            "homepage": null,
             "id": 193801143,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-13T05:34:16Z",
+            "open_issues": 7,
             "owner": "howardjohn",
             "repo": "kubectl-resources",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -1994,12 +3320,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show various requested resources on Kubernetes nodes",
+            "homepage": null,
             "id": 193948808,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-08-07T10:13:05Z",
+            "open_issues": 1,
             "owner": "makocchi-git",
             "repo": "kubectl-free",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2010,12 +3347,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Show various requested resources on Kubernetes nodes",
+            "homepage": null,
             "id": 193948808,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-08-07T10:13:05Z",
+            "open_issues": 1,
             "owner": "makocchi-git",
             "repo": "kubectl-free",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "k8s",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2026,12 +3374,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "regex matching for resource names",
+            "homepage": null,
             "id": 169547164,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-12-31T09:35:25Z",
+            "open_issues": 2,
             "owner": "gerald1248",
             "repo": "kubectl-match-name",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2042,12 +3398,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "regex matching for resource names",
+            "homepage": null,
             "id": 169547164,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-12-31T09:35:25Z",
+            "open_issues": 2,
             "owner": "gerald1248",
             "repo": "kubectl-match-name",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2058,12 +3422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Ruby-script to export k8s resources",
+            "homepage": null,
             "id": 200604431,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-06T18:52:39Z",
+            "open_issues": 2,
             "owner": "Kyrremann",
             "repo": "kubectl-eksporter",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2074,12 +3443,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple Ruby-script to export k8s resources",
+            "homepage": null,
             "id": 200604431,
             "language": "Ruby",
+            "license": "GPL-3.0",
             "last_commit": "2022-07-06T18:52:39Z",
+            "open_issues": 2,
             "owner": "Kyrremann",
             "repo": "kubectl-eksporter",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2090,12 +3464,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",
+            "homepage": null,
             "id": 168855888,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T01:07:32Z",
+            "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2664
+            "stars": 2664,
+            "topics": [
+              "kubernetes",
+              "resource-management",
+              "utilization"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2106,12 +3489,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple CLI that provides an overview of the resource requests, limits, and utilization in a Kubernetes cluster",
+            "homepage": null,
             "id": 168855888,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T01:07:32Z",
+            "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2664
+            "stars": 2664,
+            "topics": [
+              "kubernetes",
+              "resource-management",
+              "utilization"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2122,12 +3514,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to easily restart all pods of a deployment",
+            "homepage": null,
             "id": 205887295,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-11-19T22:59:05Z",
+            "open_issues": 0,
             "owner": "mousavian",
             "repo": "kubectl-rotate-pods",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2138,12 +3540,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to easily restart all pods of a deployment",
+            "homepage": null,
             "id": 205887295,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2019-11-19T22:59:05Z",
+            "open_issues": 0,
             "owner": "mousavian",
             "repo": "kubectl-rotate-pods",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2154,12 +3566,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-terminate, a kubectl plugin to remove finalizers and finally delete k8s resources",
+            "homepage": null,
             "id": 219845224,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-08T09:49:45Z",
+            "open_issues": 3,
             "owner": "xcoulon",
             "repo": "kubectl-terminate",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "cli",
+              "kubectl-plugins",
+              "kubernetes",
+              "openshift"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2170,12 +3592,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl-terminate, a kubectl plugin to remove finalizers and finally delete k8s resources",
+            "homepage": null,
             "id": 219845224,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-10-08T09:49:45Z",
+            "open_issues": 3,
             "owner": "xcoulon",
             "repo": "kubectl-terminate",
-            "stars": 37
+            "stars": 37,
+            "topics": [
+              "cli",
+              "kubectl-plugins",
+              "kubernetes",
+              "openshift"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2186,12 +3618,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "kubectl plugin to print versions of well-known third-party controllers/operators installed in a cluster",
+            "homepage": null,
             "id": 176355950,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-18T19:56:58Z",
+            "open_issues": 0,
             "owner": "GoogleCloudPlatform",
             "repo": "kubectl-extension-versions",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2202,12 +3642,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "kubectl plugin to print versions of well-known third-party controllers/operators installed in a cluster",
+            "homepage": null,
             "id": 176355950,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-03-18T19:56:58Z",
+            "open_issues": 0,
             "owner": "GoogleCloudPlatform",
             "repo": "kubectl-extension-versions",
-            "stars": 14
+            "stars": 14,
+            "topics": [
+              "kubectl-plugin",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2218,12 +3666,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes Universal Declarative Operator (KUDO)",
+            "homepage": "https://kudo.dev",
             "id": 158545617,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-22T07:57:43Z",
+            "open_issues": 191,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1215
+            "stars": 1215,
+            "topics": [
+              "cluster",
+              "cncf",
+              "crd",
+              "hacktoberfest",
+              "kafka",
+              "kubernetes",
+              "kubernetes-community",
+              "kubernetes-controller",
+              "kubernetes-operator",
+              "kudo",
+              "maestro",
+              "mysql",
+              "operator",
+              "sdk",
+              "zookeeper"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2234,12 +3703,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive plugin for kubectl",
+            "homepage": null,
             "id": 276022895,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-07-15T17:55:32Z",
+            "open_issues": 5,
             "owner": "similarweb",
             "repo": "kubectl-ipick",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2250,12 +3724,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Interactive plugin for kubectl",
+            "homepage": null,
             "id": 276022895,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-07-15T17:55:32Z",
+            "open_issues": 5,
             "owner": "similarweb",
             "repo": "kubectl-ipick",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2266,12 +3745,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to display container logs within separate tmux panes",
+            "homepage": null,
             "id": 120147525,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-17T11:52:46Z",
+            "open_issues": 3,
             "owner": "brosandilabs",
             "repo": "kubectl-tmux-logs",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "logs",
+              "plugin",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2282,12 +3773,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin to display container logs within separate tmux panes",
+            "homepage": null,
             "id": 120147525,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2018-07-17T11:52:46Z",
+            "open_issues": 3,
             "owner": "brosandilabs",
             "repo": "kubectl-tmux-logs",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes",
+              "logs",
+              "plugin",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2298,12 +3801,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to follow logs of multiple running pods",
+            "homepage": null,
             "id": 159073803,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-31T20:19:04Z",
+            "open_issues": 0,
             "owner": "ivkalita",
             "repo": "kubectl-clogs",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2314,12 +3825,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin to follow logs of multiple running pods",
+            "homepage": null,
             "id": 159073803,
             "language": "Go",
+            "license": "GPL-3.0",
             "last_commit": "2021-08-31T20:19:04Z",
+            "open_issues": 0,
             "owner": "ivkalita",
             "repo": "kubectl-clogs",
-            "stars": 7
+            "stars": 7,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2330,12 +3849,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl open-svc plugin makes services accessible via their ClusterIP from outside your cluster",
+            "homepage": null,
             "id": 134391875,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-16T13:55:28Z",
+            "open_issues": 1,
             "owner": "superbrothers",
             "repo": "kubectl-open-svc-plugin",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2346,12 +3874,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl open-svc plugin makes services accessible via their ClusterIP from outside your cluster",
+            "homepage": null,
             "id": 134391875,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-16T13:55:28Z",
+            "open_issues": 1,
             "owner": "superbrothers",
             "repo": "kubectl-open-svc-plugin",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2362,12 +3899,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)",
+            "homepage": null,
             "id": 198386182,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-06T14:33:46Z",
+            "open_issues": 10,
             "owner": "emirozer",
             "repo": "kubectl-doctor",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-deployment",
+              "kubernetes-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2378,12 +3925,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " kubectl cluster triage plugin for k8s - 🏥   (brew doctor equivalent)",
+            "homepage": null,
             "id": 198386182,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-06T14:33:46Z",
+            "open_issues": 10,
             "owner": "emirozer",
             "repo": "kubectl-doctor",
-            "stars": 365
+            "stars": 365,
+            "topics": [
+              "kubernetes",
+              "kubernetes-cluster",
+              "kubernetes-deployment",
+              "kubernetes-monitoring"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2394,12 +3951,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin that show a kubeconfig to access the apiserver with a specified serviceaccount.",
+            "homepage": null,
             "id": 132137644,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-16T12:55:16Z",
+            "open_issues": 7,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2410,12 +3976,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin that show a kubeconfig to access the apiserver with a specified serviceaccount.",
+            "homepage": null,
             "id": 132137644,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-05-16T12:55:16Z",
+            "open_issues": 7,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
-            "stars": 123
+            "stars": 123,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2426,12 +4001,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to find forked Helm Charts and other K8s resources and unfork them with Kustomize",
+            "homepage": "https://www.unfork.io",
             "id": 197024845,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-09T02:52:29Z",
+            "open_issues": 5,
             "owner": "replicatedhq",
             "repo": "unfork",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "go",
+              "golang",
+              "helm",
+              "helm-charts",
+              "kubectl-plugins",
+              "kubernetes",
+              "kustomize"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2442,12 +4030,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubectl plugin to find forked Helm Charts and other K8s resources and unfork them with Kustomize",
+            "homepage": "https://www.unfork.io",
             "id": 197024845,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-09T02:52:29Z",
+            "open_issues": 5,
             "owner": "replicatedhq",
             "repo": "unfork",
-            "stars": 148
+            "stars": 148,
+            "topics": [
+              "go",
+              "golang",
+              "helm",
+              "helm-charts",
+              "kubectl-plugins",
+              "kubernetes",
+              "kustomize"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2458,12 +4059,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for merging multiple kubeconfig files. A cli-runtime example.",
+            "homepage": null,
             "id": 170710966,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-06T13:32:11Z",
+            "open_issues": 2,
             "owner": "kairen",
             "repo": "kubectl-config-merge",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2474,12 +4084,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for merging multiple kubeconfig files. A cli-runtime example.",
+            "homepage": null,
             "id": 170710966,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-06T13:32:11Z",
+            "open_issues": 2,
             "owner": "kairen",
             "repo": "kubectl-config-merge",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2490,12 +4109,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "konfig helps to merge, split or import kubeconfig files",
+            "homepage": null,
             "id": 178614017,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T06:25:55Z",
+            "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "config",
+              "kubeconfig",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "merge"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2506,12 +4138,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "konfig helps to merge, split or import kubeconfig files",
+            "homepage": null,
             "id": 178614017,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2022-06-30T06:25:55Z",
+            "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391
+            "stars": 391,
+            "topics": [
+              "config",
+              "kubeconfig",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "merge"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2522,12 +4167,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe operations in kubectl with plugin kubectlsafe",
+            "homepage": null,
             "id": 168506284,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-01-18T07:11:31Z",
+            "open_issues": 2,
             "owner": "esin",
             "repo": "kubectlsafe",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "bash",
+              "bash-script",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-deployment",
+              "kubernetes-operator"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2538,12 +4197,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Safe operations in kubectl with plugin kubectlsafe",
+            "homepage": null,
             "id": 168506284,
             "language": "Shell",
+            "license": null,
             "last_commit": "2021-01-18T07:11:31Z",
+            "open_issues": 2,
             "owner": "esin",
             "repo": "kubectlsafe",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "bash",
+              "bash-script",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-deployment",
+              "kubernetes-operator"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2554,12 +4227,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple binary to colorize output.",
+            "homepage": null,
             "id": 133259206,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-12-13T19:15:10Z",
+            "open_issues": 0,
             "owner": "retr0h",
             "repo": "kubectl-rainbow",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2570,12 +4250,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple binary to colorize output.",
+            "homepage": null,
             "id": 133259206,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2020-12-13T19:15:10Z",
+            "open_issues": 0,
             "owner": "retr0h",
             "repo": "kubectl-rainbow",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2586,12 +4273,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ansible dynamic inventory plugin for kubernetes cluster nodes",
+            "homepage": null,
             "id": 172677668,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-26T09:15:42Z",
+            "open_issues": 0,
             "owner": "moshloop",
             "repo": "kubectl-ansible",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ansible",
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2602,12 +4298,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An ansible dynamic inventory plugin for kubernetes cluster nodes",
+            "homepage": null,
             "id": 172677668,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-02-26T09:15:42Z",
+            "open_issues": 0,
             "owner": "moshloop",
             "repo": "kubectl-ansible",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "ansible",
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2618,12 +4323,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for rendering the Kubernetes server version.",
+            "homepage": null,
             "id": 189635498,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-20T14:07:27Z",
+            "open_issues": 0,
             "owner": "bmuschko",
             "repo": "kubectl-server-version",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2634,12 +4349,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for rendering the Kubernetes server version.",
+            "homepage": null,
             "id": 189635498,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2019-06-20T14:07:27Z",
+            "open_issues": 0,
             "owner": "bmuschko",
             "repo": "kubectl-server-version",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "golang",
+              "kubectl",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2650,12 +4375,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for automatically cleaning up your kubeconfig",
+            "homepage": null,
             "id": 176971763,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-01T14:33:49Z",
+            "open_issues": 3,
             "owner": "TorchAIKC",
             "repo": "kubectl-config-cleanup",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "kubeconfig",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2666,12 +4400,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for automatically cleaning up your kubeconfig",
+            "homepage": null,
             "id": 176971763,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-01T14:33:49Z",
+            "open_issues": 3,
             "owner": "TorchAIKC",
             "repo": "kubectl-config-cleanup",
-            "stars": 55
+            "stars": 55,
+            "topics": [
+              "kubeconfig",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2682,12 +4425,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly add a Kubernetes cluster to a GitLab project",
+            "homepage": null,
             "id": 206411248,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-02-15T22:04:27Z",
+            "open_issues": 0,
             "owner": "eddiezane",
             "repo": "kubectl-gitlab_bootstrap",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gitlab",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2698,12 +4452,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Quickly add a Kubernetes cluster to a GitLab project",
+            "homepage": null,
             "id": 206411248,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-02-15T22:04:27Z",
+            "open_issues": 0,
             "owner": "eddiezane",
             "repo": "kubectl-gitlab_bootstrap",
-            "stars": 5
+            "stars": 5,
+            "topics": [
+              "gitlab",
+              "kubectl",
+              "kubectl-plugin",
+              "kubectl-plugins",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2714,12 +4479,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for captain",
+            "homepage": null,
             "id": 206042665,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-11T05:24:32Z",
+            "open_issues": 0,
             "owner": "alauda",
             "repo": "kubectl-captain",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "helm",
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2730,12 +4504,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin for captain",
+            "homepage": null,
             "id": 206042665,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-05-11T05:24:32Z",
+            "open_issues": 0,
             "owner": "alauda",
             "repo": "kubectl-captain",
-            "stars": 2
+            "stars": 2,
+            "topics": [
+              "helm",
+              "kubectl",
+              "kubectl-plugins"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2746,12 +4529,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preflight Checks and Support Bundles Framework for Kubernetes Applications",
+            "homepage": "https://troubleshoot.sh",
             "id": 195894190,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:09:26Z",
+            "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "go",
+              "golang",
+              "kubernetes",
+              "modern-on-prem",
+              "preflight",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2762,12 +4557,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preflight Checks and Support Bundles Framework for Kubernetes Applications",
+            "homepage": "https://troubleshoot.sh",
             "id": 195894190,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:09:26Z",
+            "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "go",
+              "golang",
+              "kubernetes",
+              "modern-on-prem",
+              "preflight",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2778,12 +4585,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preflight Checks and Support Bundles Framework for Kubernetes Applications",
+            "homepage": "https://troubleshoot.sh",
             "id": 195894190,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:09:26Z",
+            "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "go",
+              "golang",
+              "kubernetes",
+              "modern-on-prem",
+              "preflight",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2794,12 +4613,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Preflight Checks and Support Bundles Framework for Kubernetes Applications",
+            "homepage": "https://troubleshoot.sh",
             "id": 195894190,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T14:09:26Z",
+            "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 586
+            "stars": 586,
+            "topics": [
+              "go",
+              "golang",
+              "kubernetes",
+              "modern-on-prem",
+              "preflight",
+              "troubleshooting"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2810,12 +4641,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holds all scripts to create packages and manifest file required for publishing the virtctl binary as a krew package for kubectl.",
+            "homepage": null,
             "id": 190237504,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T00:01:32Z",
+            "open_issues": 0,
             "owner": "kubevirt",
             "repo": "kubectl-virt-plugin",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2826,12 +4662,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Holds all scripts to create packages and manifest file required for publishing the virtctl binary as a krew package for kubectl.",
+            "homepage": null,
             "id": 190237504,
             "language": "Shell",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-31T00:01:32Z",
+            "open_issues": 0,
             "owner": "kubevirt",
             "repo": "kubectl-virt-plugin",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2842,12 +4683,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool providing you with status & configuration of a Kubernetes cluster fleet",
+            "homepage": null,
             "id": 223789028,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-24T16:17:21Z",
+            "open_issues": 2,
             "owner": "kubectl-plus",
             "repo": "kcf",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "cluster",
+              "fleet",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2858,12 +4711,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool providing you with status & configuration of a Kubernetes cluster fleet",
+            "homepage": null,
             "id": 223789028,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-24T16:17:21Z",
+            "open_issues": 2,
             "owner": "kubectl-plus",
             "repo": "kcf",
-            "stars": 110
+            "stars": 110,
+            "topics": [
+              "cluster",
+              "fleet",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes-clusters"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2874,12 +4739,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes PreUpGrade (Checker)",
+            "homepage": "https://kubepug.xyz/",
             "id": 232220881,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T09:27:04Z",
+            "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1840
+            "stars": 1840,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2890,12 +4764,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes PreUpGrade (Checker)",
+            "homepage": "https://kubepug.xyz/",
             "id": 232220881,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T09:27:04Z",
+            "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1840
+            "stars": 1840,
+            "topics": [
+              "kubectl-plugins",
+              "kubernetes",
+              "kubernetes-plugin"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2906,12 +4789,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes CLI plugin to decode Kubernetes secrets",
+            "homepage": null,
             "id": 216479275,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-23T05:21:31Z",
+            "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 427
+            "stars": 427,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2922,12 +4810,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kubernetes CLI plugin to decode Kubernetes secrets",
+            "homepage": null,
             "id": 216479275,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2026-04-23T05:21:31Z",
+            "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 427
+            "stars": 427,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2938,12 +4831,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 'kubectl' plugin for interacting with Cilium.",
+            "homepage": null,
             "id": 250790257,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-02T04:32:30Z",
+            "open_issues": 5,
             "owner": "bmcustodio",
             "repo": "kubectl-cilium",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2954,12 +4852,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A 'kubectl' plugin for interacting with Cilium.",
+            "homepage": null,
             "id": 250790257,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2022-09-02T04:32:30Z",
+            "open_issues": 5,
             "owner": "bmcustodio",
             "repo": "kubectl-cilium",
-            "stars": 31
+            "stars": 31,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2970,12 +4873,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 335810310,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-10-04T07:43:06Z",
+            "open_issues": 0,
             "owner": "carbonetes",
             "repo": "kubectl-carbonetes-scan",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -2986,12 +4894,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 335810310,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-10-04T07:43:06Z",
+            "open_issues": 0,
             "owner": "carbonetes",
             "repo": "kubectl-carbonetes-scan",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3002,12 +4915,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl/krew plugin for working with network policies",
+            "homepage": null,
             "id": 338314173,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-11T10:22:22Z",
+            "open_issues": 0,
             "owner": "mattfenwick",
             "repo": "kubectl-cyclonus",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "network-policies"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3018,12 +4942,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl/krew plugin for working with network policies",
+            "homepage": null,
             "id": 338314173,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-11T10:22:22Z",
+            "open_issues": 0,
             "owner": "mattfenwick",
             "repo": "kubectl-cyclonus",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes",
+              "network-policies"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3034,12 +4969,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":eyes: :bangbang: This projects aims to visualize critical parts of the admission webhook configuration resource",
+            "homepage": null,
             "id": 311955521,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-17T19:37:35Z",
+            "open_issues": 4,
             "owner": "Trendyol",
             "repo": "kubectl-view-webhook",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "admission-webhook",
+              "go",
+              "golang",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3050,12 +4998,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":eyes: :bangbang: This projects aims to visualize critical parts of the admission webhook configuration resource",
+            "homepage": null,
             "id": 311955521,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-17T19:37:35Z",
+            "open_issues": 4,
             "owner": "Trendyol",
             "repo": "kubectl-view-webhook",
-            "stars": 108
+            "stars": 108,
+            "topics": [
+              "admission-webhook",
+              "go",
+              "golang",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3066,12 +5027,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move2Kube is a command-line tool for automating creation of Infrastructure as code (IaC) artifacts. It has inbuilt support for creating IaC artifacts for replatforming to Kubernetes/Openshift. ",
+            "homepage": "https://move2kube.konveyor.io/",
             "id": 296651739,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-06T14:02:34Z",
+            "open_issues": 55,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "hacktoberfest",
+              "kubernetes",
+              "modernization",
+              "move2kube",
+              "replatform"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3082,12 +5054,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move2Kube is a command-line tool for automating creation of Infrastructure as code (IaC) artifacts. It has inbuilt support for creating IaC artifacts for replatforming to Kubernetes/Openshift. ",
+            "homepage": "https://move2kube.konveyor.io/",
             "id": 296651739,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-06T14:02:34Z",
+            "open_issues": 55,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 412
+            "stars": 412,
+            "topics": [
+              "hacktoberfest",
+              "kubernetes",
+              "modernization",
+              "move2kube",
+              "replatform"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3098,12 +5081,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin that extends Datree to test resources within the cluster",
+            "homepage": null,
             "id": 452665574,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-10-25T11:31:51Z",
+            "open_issues": 1,
             "owner": "datreeio",
             "repo": "kubectl-datree",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3114,12 +5102,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin that extends Datree to test resources within the cluster",
+            "homepage": null,
             "id": 452665574,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2022-10-25T11:31:51Z",
+            "open_issues": 1,
             "owner": "datreeio",
             "repo": "kubectl-datree",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3130,12 +5123,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The kubectl plugin which allows us to test IRSA configuration AWS sa",
+            "homepage": null,
             "id": 479625610,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-11-02T23:02:07Z",
+            "open_issues": 0,
             "owner": "TeamBion",
             "repo": "kubectl-irsa",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aws",
+              "irsa",
+              "kubectl",
+              "kubernetes",
+              "oidc",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3146,12 +5151,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The kubectl plugin which allows us to test IRSA configuration AWS sa",
+            "homepage": null,
             "id": 479625610,
             "language": "Go",
+            "license": null,
             "last_commit": "2022-11-02T23:02:07Z",
+            "open_issues": 0,
             "owner": "TeamBion",
             "repo": "kubectl-irsa",
-            "stars": 24
+            "stars": 24,
+            "topics": [
+              "aws",
+              "irsa",
+              "kubectl",
+              "kubernetes",
+              "oidc",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3162,12 +5179,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin that performs tpcdump network captures on resources inside kubernetes cluster",
+            "homepage": null,
             "id": 744792412,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-11T00:38:20Z",
+            "open_issues": 2,
             "owner": "larryTheSlap",
             "repo": "dumpy",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "kubectl",
+              "kubernetes",
+              "kubernetes-plugin",
+              "tcpdump",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3178,12 +5206,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "kubectl plugin that performs tpcdump network captures on resources inside kubernetes cluster",
+            "homepage": null,
             "id": 744792412,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-11T00:38:20Z",
+            "open_issues": 2,
             "owner": "larryTheSlap",
             "repo": "dumpy",
-            "stars": 86
+            "stars": 86,
+            "topics": [
+              "kubectl",
+              "kubernetes",
+              "kubernetes-plugin",
+              "tcpdump",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3194,12 +5233,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 988423692,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-19T01:28:19Z",
+            "open_issues": 0,
             "owner": "comboshreddies",
             "repo": "kubectl-tks",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3210,12 +5254,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 988423692,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2025-11-19T01:28:19Z",
+            "open_issues": 0,
             "owner": "comboshreddies",
             "repo": "kubectl-tks",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3226,12 +5275,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Missing kubectl UNIX-find-like plugin to find resources and perform action on them",
+            "homepage": null,
             "id": 1007330172,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:06:46Z",
+            "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "find",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3242,12 +5302,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Missing kubectl UNIX-find-like plugin to find resources and perform action on them",
+            "homepage": null,
             "id": 1007330172,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:06:46Z",
+            "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "find",
+              "krew",
+              "kubectl",
+              "kubectl-plugin",
+              "kubernetes"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3258,12 +5329,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://meshery.io/extensions",
             "id": 863006960,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T23:01:54Z",
+            "open_issues": 6,
             "owner": "meshery-extensions",
             "repo": "kubectl-kanvas-snapshot",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cloud-native",
+              "cncf",
+              "cncf-shapes",
+              "hacktoberfest",
+              "kanvas",
+              "kubernetes",
+              "kubernetes-manifests",
+              "meshery",
+              "visualisation",
+              "visualization",
+              "visualization-tool"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3274,12 +5362,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://meshery.io/extensions",
             "id": 863006960,
             "language": "Makefile",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T23:01:54Z",
+            "open_issues": 6,
             "owner": "meshery-extensions",
             "repo": "kubectl-kanvas-snapshot",
-            "stars": 25
+            "stars": 25,
+            "topics": [
+              "cloud-native",
+              "cncf",
+              "cncf-shapes",
+              "hacktoberfest",
+              "kanvas",
+              "kubernetes",
+              "kubernetes-manifests",
+              "meshery",
+              "visualisation",
+              "visualization",
+              "visualization-tool"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3290,12 +5395,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for executing commands interactively across multiple pods or containers using tmux",
+            "homepage": null,
             "id": 244356029,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-16T02:32:31Z",
+            "open_issues": 1,
             "owner": "predatorray",
             "repo": "kubectl-tmux-exec",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubernetes",
+              "shell",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3306,12 +5422,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A kubectl plugin for executing commands interactively across multiple pods or containers using tmux",
+            "homepage": null,
             "id": 244356029,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-16T02:32:31Z",
+            "open_issues": 1,
             "owner": "predatorray",
             "repo": "kubectl-tmux-exec",
-            "stars": 142
+            "stars": 142,
+            "topics": [
+              "krew-plugin",
+              "kubectl",
+              "kubernetes",
+              "shell",
+              "tmux"
+            ]
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3322,12 +5449,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1043830162,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-15T14:59:38Z",
+            "open_issues": 0,
             "owner": "comboshreddies",
             "repo": "kubectl-line",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3338,12 +5470,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1043830162,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-15T14:59:38Z",
+            "open_issues": 0,
             "owner": "comboshreddies",
             "repo": "kubectl-line",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
         },
@@ -3356,12 +5493,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Collection of Plugins for kubectl Integration (exec as any user, context switching, etc).",
+                "homepage": null,
                 "id": 117155340,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2024-06-27T06:00:21Z",
+                "open_issues": 16,
                 "owner": "jordanwilson230",
                 "repo": "kubectl-plugins",
-                "stars": 637
+                "stars": 637,
+                "topics": [
+                  "automated-deployment",
+                  "ci-cd",
+                  "context-switching",
+                  "deployment",
+                  "devops",
+                  "eks",
+                  "exec",
+                  "gke",
+                  "google-cloud",
+                  "kubectl",
+                  "kubectl-plugins",
+                  "kubernetes",
+                  "namespace",
+                  "namespaces",
+                  "plugins",
+                  "pod",
+                  "ssh"
+                ]
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             },
@@ -3372,12 +5532,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of mini plugins for kubectl.",
+                "homepage": null,
                 "id": 136950294,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2020-01-10T20:50:17Z",
+                "open_issues": 2,
                 "owner": "ahmetb",
                 "repo": "kubectl-extras",
-                "stars": 114
+                "stars": 114,
+                "topics": [
+                  "kubectl",
+                  "kubectl-plugins"
+                ]
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             },
@@ -3388,12 +5556,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A list of plugins that enhance the kubectl CLI",
+                "homepage": null,
                 "id": 191827434,
                 "language": "Shell",
+                "license": "Apache-2.0",
                 "last_commit": "2021-12-15T16:29:00Z",
+                "open_issues": 0,
                 "owner": "FikaWorks",
                 "repo": "kubectl-plugins",
-                "stars": 25
+                "stars": 25,
+                "topics": [
+                  "krew",
+                  "kubectl-plugins",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             },
@@ -3404,12 +5581,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Various kubectl plugins to make life easier",
+                "homepage": null,
                 "id": 233877293,
                 "language": "Shell",
+                "license": null,
                 "last_commit": "2021-02-08T15:59:19Z",
+                "open_issues": 0,
                 "owner": "PeterGrace",
                 "repo": "kubectl-everything",
-                "stars": 4
+                "stars": 4,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             },
@@ -3420,12 +5602,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "These be collection of kubectl plugins!",
+                "homepage": null,
                 "id": 158935768,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-03-10T14:44:11Z",
+                "open_issues": 2,
                 "owner": "ripta",
                 "repo": "kubectl-plugins",
-                "stars": 2
+                "stars": 2,
+                "topics": [
+                  "golang",
+                  "hyperbinary",
+                  "kubectl",
+                  "kubectl-plugins",
+                  "kubernetes"
+                ]
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             },
@@ -3436,12 +5629,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "It is a set of kubectl plugins.",
+                "homepage": null,
                 "id": 176344232,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2019-04-24T13:32:42Z",
+                "open_issues": 0,
                 "owner": "thobiast",
                 "repo": "kubectl-plugins",
-                "stars": 1
+                "stars": 1,
+                "topics": [
+                  "kubectl",
+                  "kubectl-plugins",
+                  "kubernetes",
+                  "oc-plugin",
+                  "openshift"
+                ]
               },
               "first_seen": "2026-08-28T06:56:43.146Z"
             }
@@ -3455,15 +5659,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:56:43.146Z",
+    "last_updated": "2026-08-29T04:12:09.680Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Curated list of kubectl plugins",
+      "homepage": null,
       "id": 207302304,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-08-11T21:20:57Z",
+      "open_issues": 2,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
-      "stars": 1008
+      "stars": 1008,
+      "topics": [
+        "awesome-list",
+        "kubectl",
+        "kubectl-plugins",
+        "kubernetes"
+      ]
     },
     "original_repository_sha": "22119603ed2c2d615fad3510486cf0dbfdaf141c",
     "enhanced_repository": "enhansome/enhansome-kubectl-plugins",
