@@ -1,6 +1,6 @@
 # awesome-kubectl-plugins with stars
 
-A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,890 | 🐛 105 | 📅 2026-08-21 list.
+A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 500,891 | 🐛 105 | 📅 2026-08-21 list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
