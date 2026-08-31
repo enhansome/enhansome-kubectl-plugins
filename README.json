@@ -859,7 +859,7 @@
             "id": 799269879,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-09T08:40:33Z",
+            "last_commit": "2026-08-30T15:06:46Z",
             "open_issues": 2,
             "owner": "Telemaco019",
             "repo": "duplik8s",
@@ -885,7 +885,7 @@
             "id": 799269879,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-09T08:40:33Z",
+            "last_commit": "2026-08-30T15:06:46Z",
             "open_issues": 2,
             "owner": "Telemaco019",
             "repo": "duplik8s",
@@ -1861,7 +1861,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T13:37:59Z",
+            "last_commit": "2026-08-31T00:29:01Z",
             "open_issues": 119,
             "owner": "int128",
             "repo": "kubelogin",
@@ -1889,7 +1889,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T13:37:59Z",
+            "last_commit": "2026-08-31T00:29:01Z",
             "open_issues": 119,
             "owner": "int128",
             "repo": "kubelogin",
@@ -2367,7 +2367,7 @@
             "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ctx",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2392,7 +2392,7 @@
             "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ctx",
-            "stars": 52,
+            "stars": 53,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2417,7 +2417,7 @@
             "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ns",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2442,7 +2442,7 @@
             "open_issues": 0,
             "owner": "weibeld",
             "repo": "kubectl-ns",
-            "stars": 38,
+            "stars": 39,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2569,7 +2569,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19967,
+            "stars": 19969,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19967,
+            "stars": 19969,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T01:16:30.253Z",
+    "last_updated": "2026-08-31T01:23:18.050Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
