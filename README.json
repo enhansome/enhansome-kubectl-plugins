@@ -443,7 +443,7 @@
             "open_issues": 49,
             "owner": "iovisor",
             "repo": "kubectl-trace",
-            "stars": 2186,
+            "stars": 2187,
             "topics": [
               "bpf",
               "bpftrace",
@@ -476,7 +476,7 @@
             "open_issues": 49,
             "owner": "iovisor",
             "repo": "kubectl-trace",
-            "stars": 2186,
+            "stars": 2187,
             "topics": [
               "bpf",
               "bpftrace",
@@ -1865,7 +1865,7 @@
             "open_issues": 119,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2351,
+            "stars": 2353,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 119,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2351,
+            "stars": 2353,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19967,
+            "stars": 19969,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19967,
+            "stars": 19969,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T01:50:24.500Z",
+    "last_updated": "2026-09-02T01:02:43.356Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
