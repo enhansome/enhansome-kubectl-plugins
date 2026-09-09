@@ -713,7 +713,7 @@
             "open_issues": 12,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "df",
               "krew-plugin",
@@ -742,7 +742,7 @@
             "open_issues": 12,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "df",
               "krew-plugin",
@@ -1651,7 +1651,7 @@
             "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3422,
+            "stars": 3423,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3422,
+            "stars": 3423,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1861,8 +1861,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T02:15:40Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-08T02:23:28Z",
+            "open_issues": 121,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2353,
@@ -1889,8 +1889,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-06T02:15:40Z",
-            "open_issues": 120,
+            "last_commit": "2026-09-08T02:23:28Z",
+            "open_issues": 121,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2353,
@@ -2569,7 +2569,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19978,
+            "stars": 19982,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19978,
+            "stars": 19982,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3473,7 +3473,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2665,
+            "stars": 2666,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2665,
+            "stars": 2666,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -4924,7 +4924,7 @@
             "open_issues": 0,
             "owner": "mattfenwick",
             "repo": "kubectl-cyclonus",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "krew",
               "kubectl",
@@ -4951,7 +4951,7 @@
             "open_issues": 0,
             "owner": "mattfenwick",
             "repo": "kubectl-cyclonus",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "krew",
               "kubectl",
@@ -5280,7 +5280,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:04:59Z",
+            "last_commit": "2026-09-08T22:39:29Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5307,7 +5307,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-31T17:04:59Z",
+            "last_commit": "2026-09-08T22:39:29Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T01:13:35.186Z",
+    "last_updated": "2026-09-09T01:16:20.896Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
