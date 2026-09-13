@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2102,
+            "stars": 2103,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -1861,8 +1861,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:39:02Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-12T20:49:03Z",
+            "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2354,
@@ -1889,8 +1889,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T22:39:02Z",
-            "open_issues": 125,
+            "last_commit": "2026-09-12T20:49:03Z",
+            "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2354,
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T01:08:49.986Z",
+    "last_updated": "2026-09-13T01:02:42.230Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
