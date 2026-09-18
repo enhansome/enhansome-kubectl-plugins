@@ -335,7 +335,7 @@
             "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3473,
+            "stars": 3474,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3473,
+            "stars": 3474,
             "topics": [
               "debugging",
               "kubectl",
@@ -1609,7 +1609,7 @@
             "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 695,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -1630,7 +1630,7 @@
             "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 695,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -2569,7 +2569,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19987,
+            "stars": 19991,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19987,
+            "stars": 19991,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4118,7 +4118,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "config",
               "kubeconfig",
@@ -4147,7 +4147,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391,
+            "stars": 392,
             "topics": [
               "config",
               "kubeconfig",
@@ -5280,7 +5280,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T23:12:28Z",
+            "last_commit": "2026-09-17T22:23:11Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5307,7 +5307,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-16T23:12:28Z",
+            "last_commit": "2026-09-17T22:23:11Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T01:27:48.136Z",
+    "last_updated": "2026-09-18T01:17:46.388Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
