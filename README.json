@@ -1651,7 +1651,7 @@
             "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3432,
+            "stars": 3433,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 16,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3432,
+            "stars": 3433,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1861,8 +1861,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T01:29:52Z",
-            "open_issues": 122,
+            "last_commit": "2026-09-18T21:04:12Z",
+            "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2358,
@@ -1889,8 +1889,8 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-13T01:29:52Z",
-            "open_issues": 122,
+            "last_commit": "2026-09-18T21:04:12Z",
+            "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
             "stars": 2358,
@@ -2569,7 +2569,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19991,
+            "stars": 19990,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 42,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 19991,
+            "stars": 19990,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2947,7 +2947,7 @@
             "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "get",
               "k8s",
@@ -2977,7 +2977,7 @@
             "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 755,
+            "stars": 756,
             "topics": [
               "get",
               "k8s",
@@ -3675,7 +3675,7 @@
             "open_issues": 191,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "cluster",
               "cncf",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T01:17:46.388Z",
+    "last_updated": "2026-09-19T01:12:52.221Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5671,7 +5671,7 @@
       "open_issues": 2,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
-      "stars": 1008,
+      "stars": 1009,
       "topics": [
         "awesome-list",
         "kubectl",
