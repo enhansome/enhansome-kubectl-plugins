@@ -771,7 +771,7 @@
             "open_issues": 21,
             "owner": "replicatedhq",
             "repo": "outdated",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -796,7 +796,7 @@
             "open_issues": 21,
             "owner": "replicatedhq",
             "repo": "outdated",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -1609,7 +1609,7 @@
             "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 697,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -1630,7 +1630,7 @@
             "open_issues": 3,
             "owner": "steveteuber",
             "repo": "kubectl-graph",
-            "stars": 697,
+            "stars": 696,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -1865,7 +1865,7 @@
             "open_issues": 122,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2360,
+            "stars": 2361,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 122,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2360,
+            "stars": 2361,
             "topics": [
               "golang",
               "kubectl",
@@ -2566,10 +2566,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:42:33Z",
-            "open_issues": 42,
+            "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20007,
+            "stars": 20010,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2592,10 +2592,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-02T01:42:33Z",
-            "open_issues": 42,
+            "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20007,
+            "stars": 20010,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3473,7 +3473,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2666,
+            "stars": 2667,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2666,
+            "stars": 2667,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -5280,7 +5280,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:04:31Z",
+            "last_commit": "2026-09-23T21:49:56Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5307,7 +5307,7 @@
             "id": 1007330172,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-21T17:04:31Z",
+            "last_commit": "2026-09-23T21:49:56Z",
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T01:31:35.765Z",
+    "last_updated": "2026-09-24T01:26:44.528Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
