@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2107,
+            "stars": 2109,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2107,
+            "stars": 2109,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -335,7 +335,7 @@
             "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3475,
+            "stars": 3476,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 67,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3475,
+            "stars": 3476,
             "topics": [
               "debugging",
               "kubectl",
@@ -1865,7 +1865,7 @@
             "open_issues": 122,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2361,
+            "stars": 2364,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 122,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2361,
+            "stars": 2364,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20010,
+            "stars": 20013,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20010,
+            "stars": 20013,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3473,7 +3473,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2667,
+            "stars": 2668,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 51,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2667,
+            "stars": 2668,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -5036,7 +5036,7 @@
             "open_issues": 55,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "hacktoberfest",
               "kubernetes",
@@ -5063,7 +5063,7 @@
             "open_issues": 55,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 412,
+            "stars": 413,
             "topics": [
               "hacktoberfest",
               "kubernetes",
@@ -5659,7 +5659,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T01:26:44.528Z",
+    "last_updated": "2026-09-25T01:32:54.166Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
