@@ -79,7 +79,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 922,
+            "stars": 921,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -105,7 +105,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 922,
+            "stars": 921,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2112,
+            "stars": 2113,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2112,
+            "stars": 2113,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -713,7 +713,7 @@
             "open_issues": 13,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "df",
               "krew-plugin",
@@ -742,7 +742,7 @@
             "open_issues": 13,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "df",
               "krew-plugin",
@@ -1651,7 +1651,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3440,
+            "stars": 3441,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3440,
+            "stars": 3441,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1861,7 +1861,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:50:55Z",
+            "last_commit": "2026-10-03T00:31:38Z",
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
@@ -1889,7 +1889,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T11:50:55Z",
+            "last_commit": "2026-10-03T00:31:38Z",
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
@@ -2569,7 +2569,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20026,
+            "stars": 20027,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 40,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20026,
+            "stars": 20027,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2947,7 +2947,7 @@
             "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 758,
+            "stars": 756,
             "topics": [
               "get",
               "k8s",
@@ -2977,7 +2977,7 @@
             "open_issues": 15,
             "owner": "corneliusweig",
             "repo": "ketall",
-            "stars": 758,
+            "stars": 756,
             "topics": [
               "get",
               "k8s",
@@ -3908,7 +3908,7 @@
             "open_issues": 10,
             "owner": "emirozer",
             "repo": "kubectl-doctor",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "kubernetes",
               "kubernetes-cluster",
@@ -3934,7 +3934,7 @@
             "open_issues": 10,
             "owner": "emirozer",
             "repo": "kubectl-doctor",
-            "stars": 365,
+            "stars": 364,
             "topics": [
               "kubernetes",
               "kubernetes-cluster",
@@ -4118,7 +4118,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 392,
+            "stars": 390,
             "topics": [
               "config",
               "kubeconfig",
@@ -4147,7 +4147,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 392,
+            "stars": 390,
             "topics": [
               "config",
               "kubeconfig",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T02:18:09.541Z",
+    "last_updated": "2026-10-03T02:00:53.807Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
