@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20027,
+            "stars": 20028,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20027,
+            "stars": 20028,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3473,7 +3473,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2668,
+            "stars": 2669,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2668,
+            "stars": 2669,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -4748,7 +4748,7 @@
             "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1841,
+            "stars": 1842,
             "topics": [
               "kubectl-plugins",
               "kubernetes",
@@ -4773,7 +4773,7 @@
             "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1841,
+            "stars": 1842,
             "topics": [
               "kubectl-plugins",
               "kubernetes",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T02:42:09.217Z",
+    "last_updated": "2026-10-05T02:02:22.692Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
