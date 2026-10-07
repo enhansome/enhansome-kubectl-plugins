@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2113,
+            "stars": 2112,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -335,7 +335,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3475,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3475,
             "topics": [
               "debugging",
               "kubectl",
@@ -1651,7 +1651,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3443,
+            "stars": 3442,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3443,
+            "stars": 3442,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20030,
+            "stars": 20029,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20030,
+            "stars": 20029,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5496,7 +5496,7 @@
             "id": 1396081029,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T01:31:36Z",
+            "last_commit": "2026-10-06T22:23:42Z",
             "open_issues": 0,
             "owner": "danielgaskins",
             "repo": "cnpg-drill",
@@ -5524,7 +5524,7 @@
             "id": 1396081029,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-09-30T01:31:36Z",
+            "last_commit": "2026-10-06T22:23:42Z",
             "open_issues": 0,
             "owner": "danielgaskins",
             "repo": "cnpg-drill",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:45:43.006Z",
+    "last_updated": "2026-10-07T02:25:27.840Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5727,7 +5727,7 @@
       "open_issues": 2,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
-      "stars": 1009,
+      "stars": 1008,
       "topics": [
         "awesome-list",
         "kubectl",
