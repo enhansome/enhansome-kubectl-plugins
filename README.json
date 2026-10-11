@@ -915,7 +915,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1833,
+            "stars": 1834,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -944,7 +944,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1833,
+            "stars": 1834,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -1865,7 +1865,7 @@
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2372,
+            "stars": 2375,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2372,
+            "stars": 2375,
             "topics": [
               "golang",
               "kubectl",
@@ -2565,7 +2565,7 @@
             "id": 86733463,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T01:42:27Z",
+            "last_commit": "2026-10-11T01:43:15Z",
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
@@ -2591,7 +2591,7 @@
             "id": 86733463,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-04T01:42:27Z",
+            "last_commit": "2026-10-11T01:43:15Z",
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
@@ -5496,7 +5496,7 @@
             "id": 1396081029,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:33:24Z",
+            "last_commit": "2026-10-10T18:35:32Z",
             "open_issues": 0,
             "owner": "danielgaskins",
             "repo": "cnpg-drill",
@@ -5524,7 +5524,7 @@
             "id": 1396081029,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-09T02:33:24Z",
+            "last_commit": "2026-10-10T18:35:32Z",
             "open_issues": 0,
             "owner": "danielgaskins",
             "repo": "cnpg-drill",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T02:22:20.923Z",
+    "last_updated": "2026-10-11T01:56:28.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
