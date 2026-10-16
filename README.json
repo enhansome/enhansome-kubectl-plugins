@@ -1651,7 +1651,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3446,
+            "stars": 3448,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3446,
+            "stars": 3448,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1865,7 +1865,7 @@
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2378,
+            "stars": 2377,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 123,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2378,
+            "stars": 2377,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20039,
+            "stars": 20046,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20039,
+            "stars": 20046,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3473,7 +3473,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2671,
+            "stars": 2672,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2671,
+            "stars": 2672,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3675,7 +3675,7 @@
             "open_issues": 190,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1216,
+            "stars": 1217,
             "topics": [
               "cluster",
               "cncf",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T01:30:35.925Z",
+    "last_updated": "2026-10-16T01:23:31.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
