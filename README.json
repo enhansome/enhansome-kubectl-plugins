@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "authorization",
               "k8s",
@@ -49,7 +49,7 @@
             "open_issues": 16,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "authorization",
               "k8s",
@@ -1861,11 +1861,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T00:51:50Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-16T18:58:01Z",
+            "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2377,
+            "stars": 2378,
             "topics": [
               "golang",
               "kubectl",
@@ -1889,11 +1889,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T00:51:50Z",
-            "open_issues": 123,
+            "last_commit": "2026-10-16T18:58:01Z",
+            "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2377,
+            "stars": 2378,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20046,
+            "stars": 20047,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20046,
+            "stars": 20047,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5400,7 +5400,7 @@
             "id": 244356029,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-12T03:17:23Z",
+            "last_commit": "2026-10-16T06:20:21Z",
             "open_issues": 2,
             "owner": "predatorray",
             "repo": "kubectl-tmux-exec",
@@ -5427,7 +5427,7 @@
             "id": 244356029,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-12T03:17:23Z",
+            "last_commit": "2026-10-16T06:20:21Z",
             "open_issues": 2,
             "owner": "predatorray",
             "repo": "kubectl-tmux-exec",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T01:23:31.317Z",
+    "last_updated": "2026-10-17T01:20:02.786Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
