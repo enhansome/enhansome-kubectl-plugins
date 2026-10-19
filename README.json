@@ -19,7 +19,7 @@
             "open_issues": 16,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "authorization",
               "k8s",
@@ -49,7 +49,7 @@
             "open_issues": 16,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1402,
+            "stars": 1401,
             "topics": [
               "authorization",
               "k8s",
@@ -79,7 +79,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -105,7 +105,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -229,7 +229,7 @@
             "open_issues": 62,
             "owner": "aylei",
             "repo": "kubectl-debug",
-            "stars": 2304,
+            "stars": 2305,
             "topics": [
               "debug",
               "kubectl",
@@ -256,7 +256,7 @@
             "open_issues": 62,
             "owner": "aylei",
             "repo": "kubectl-debug",
-            "stars": 2304,
+            "stars": 2305,
             "topics": [
               "debug",
               "kubectl",
@@ -335,7 +335,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "debugging",
               "kubectl",
@@ -973,7 +973,7 @@
             "open_issues": 7,
             "owner": "gabeduke",
             "repo": "kubectl-iexec",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -999,7 +999,7 @@
             "open_issues": 7,
             "owner": "gabeduke",
             "repo": "kubectl-iexec",
-            "stars": 144,
+            "stars": 145,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1651,7 +1651,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3451,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 17,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3451,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1861,11 +1861,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T20:32:38Z",
+            "last_commit": "2026-10-18T09:22:42Z",
             "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2378,
+            "stars": 2379,
             "topics": [
               "golang",
               "kubectl",
@@ -1889,11 +1889,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-17T20:32:38Z",
+            "last_commit": "2026-10-18T09:22:42Z",
             "open_issues": 124,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2378,
+            "stars": 2379,
             "topics": [
               "golang",
               "kubectl",
@@ -3473,7 +3473,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3498,7 +3498,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3854,7 +3854,7 @@
             "id": 134391875,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-16T13:55:28Z",
+            "last_commit": "2026-10-18T06:43:12Z",
             "open_issues": 1,
             "owner": "superbrothers",
             "repo": "kubectl-open-svc-plugin",
@@ -3879,7 +3879,7 @@
             "id": 134391875,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-16T13:55:28Z",
+            "last_commit": "2026-10-18T06:43:12Z",
             "open_issues": 1,
             "owner": "superbrothers",
             "repo": "kubectl-open-svc-plugin",
@@ -3956,7 +3956,7 @@
             "id": 132137644,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-16T12:55:16Z",
+            "last_commit": "2026-10-18T06:54:07Z",
             "open_issues": 7,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
@@ -3981,7 +3981,7 @@
             "id": 132137644,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-05-16T12:55:16Z",
+            "last_commit": "2026-10-18T06:54:07Z",
             "open_issues": 7,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
@@ -5715,7 +5715,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T01:05:23.641Z",
+    "last_updated": "2026-10-19T01:18:44.314Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
