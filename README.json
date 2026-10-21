@@ -335,7 +335,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3477,
+            "stars": 3478,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3477,
+            "stars": 3478,
             "topics": [
               "debugging",
               "kubectl",
@@ -713,7 +713,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "df",
               "krew-plugin",
@@ -742,7 +742,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 506,
+            "stars": 507,
             "topics": [
               "df",
               "krew-plugin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20049,
+            "stars": 20052,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20049,
+            "stars": 20052,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4110,7 +4110,7 @@
             "open_issues": 2,
             "owner": "esin",
             "repo": "kubectlsafe",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "bash",
               "bash-script",
@@ -4140,7 +4140,7 @@
             "open_issues": 2,
             "owner": "esin",
             "repo": "kubectlsafe",
-            "stars": 42,
+            "stars": 41,
             "topics": [
               "bash",
               "bash-script",
@@ -4472,7 +4472,7 @@
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "go",
               "golang",
@@ -4500,7 +4500,7 @@
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "go",
               "golang",
@@ -4528,7 +4528,7 @@
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "go",
               "golang",
@@ -4556,7 +4556,7 @@
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 587,
+            "stars": 588,
             "topics": [
               "go",
               "golang",
@@ -4682,7 +4682,7 @@
             "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1842,
+            "stars": 1843,
             "topics": [
               "kubectl-plugins",
               "kubernetes",
@@ -4707,7 +4707,7 @@
             "open_issues": 39,
             "owner": "kubepug",
             "repo": "kubepug",
-            "stars": 1842,
+            "stars": 1843,
             "topics": [
               "kubectl-plugins",
               "kubernetes",
@@ -5475,6 +5475,90 @@
           "first_seen": "2026-10-01T02:11:18.319Z"
         },
         {
+          "node_type": "item",
+          "title": "kubectl datadiff",
+          "description": "dimanovikov/datadiff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Semantic diff for JSON, YAML, CSV, TOML and XML that plugs into git diff and kubectl diff. Ignores key order and formatting, matches arrays by key, and reports changes as data paths: spec.replicas: 3 → 5",
+            "homepage": "https://crates.io/crates/datadiff",
+            "id": 1314987927,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T14:59:45Z",
+            "open_issues": 3,
+            "owner": "dimanovikov",
+            "repo": "datadiff",
+            "stars": 21,
+            "topics": [
+              "argocd",
+              "cli",
+              "csv",
+              "devops",
+              "diff",
+              "git",
+              "git-diff",
+              "gitops",
+              "json",
+              "json-diff",
+              "kubectl",
+              "kubernetes",
+              "pre-commit",
+              "rust",
+              "rust-cli",
+              "semantic-diff",
+              "toml",
+              "xml",
+              "yaml",
+              "yaml-diff"
+            ]
+          },
+          "first_seen": "2026-10-21T01:37:55.011Z"
+        },
+        {
+          "node_type": "item",
+          "title": "datadiff",
+          "description": "dimanovikov/datadiff",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Semantic diff for JSON, YAML, CSV, TOML and XML that plugs into git diff and kubectl diff. Ignores key order and formatting, matches arrays by key, and reports changes as data paths: spec.replicas: 3 → 5",
+            "homepage": "https://crates.io/crates/datadiff",
+            "id": 1314987927,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-10-19T14:59:45Z",
+            "open_issues": 3,
+            "owner": "dimanovikov",
+            "repo": "datadiff",
+            "stars": 21,
+            "topics": [
+              "argocd",
+              "cli",
+              "csv",
+              "devops",
+              "diff",
+              "git",
+              "git-diff",
+              "gitops",
+              "json",
+              "json-diff",
+              "kubectl",
+              "kubernetes",
+              "pre-commit",
+              "rust",
+              "rust-cli",
+              "semantic-diff",
+              "toml",
+              "xml",
+              "yaml",
+              "yaml-diff"
+            ]
+          },
+          "first_seen": "2026-10-21T01:37:55.011Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -5649,7 +5733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T01:51:20.175Z",
+    "last_updated": "2026-10-21T01:37:55.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5657,7 +5741,7 @@
       "id": 207302304,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-09-30T19:29:19Z",
+      "last_commit": "2026-10-20T18:29:36Z",
       "open_issues": 2,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
@@ -5669,7 +5753,7 @@
         "kubernetes"
       ]
     },
-    "original_repository_sha": "206fdb861dea7d2f7685ae7890b076393577d16c",
+    "original_repository_sha": "67209e5d1ac61e98bd179352ba233db286492f28",
     "enhanced_repository": "enhansome/enhansome-kubectl-plugins",
     "enhanced_repository_description": null,
     "title": "awesome-kubectl-plugins with stars"
