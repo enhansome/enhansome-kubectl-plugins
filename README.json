@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2114,
+            "stars": 2115,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2114,
+            "stars": 2115,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -1865,7 +1865,7 @@
             "open_issues": 125,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2379,
+            "stars": 2380,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 125,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2379,
+            "stars": 2380,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20057,
+            "stars": 20059,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20057,
+            "stars": 20059,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5733,7 +5733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T01:12:56.336Z",
+    "last_updated": "2026-10-26T01:13:29.816Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
