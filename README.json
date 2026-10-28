@@ -1865,7 +1865,7 @@
             "open_issues": 125,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 125,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2382,
+            "stars": 2383,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20060,
+            "stars": 20062,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20060,
+            "stars": 20062,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5733,7 +5733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T02:06:20.261Z",
+    "last_updated": "2026-10-28T02:18:41.797Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5742,10 +5742,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-20T18:29:36Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
-      "stars": 1009,
+      "stars": 1010,
       "topics": [
         "awesome-list",
         "kubectl",
