@@ -1651,7 +1651,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20064,
+            "stars": 20068,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20064,
+            "stars": 20068,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3099,7 +3099,7 @@
             "open_issues": 0,
             "owner": "webofmars",
             "repo": "kubectl-custom-cols",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "cli",
               "columns",
@@ -3131,7 +3131,7 @@
             "open_issues": 0,
             "owner": "webofmars",
             "repo": "kubectl-custom-cols",
-            "stars": 19,
+            "stars": 20,
             "topics": [
               "cli",
               "columns",
@@ -4472,7 +4472,7 @@
             "open_issues": 61,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "go",
               "golang",
@@ -4500,7 +4500,7 @@
             "open_issues": 61,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "go",
               "golang",
@@ -4528,7 +4528,7 @@
             "open_issues": 61,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "go",
               "golang",
@@ -4556,7 +4556,7 @@
             "open_issues": 61,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
-            "stars": 588,
+            "stars": 587,
             "topics": [
               "go",
               "golang",
@@ -5570,7 +5570,7 @@
             "id": 1423710472,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T01:34:17Z",
+            "last_commit": "2026-10-29T20:08:23Z",
             "open_issues": 0,
             "owner": "Shoalcheck",
             "repo": "shoalcheck",
@@ -5603,7 +5603,7 @@
             "id": 1423710472,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T01:34:17Z",
+            "last_commit": "2026-10-29T20:08:23Z",
             "open_issues": 0,
             "owner": "Shoalcheck",
             "repo": "shoalcheck",
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T02:28:05.813Z",
+    "last_updated": "2026-10-30T02:37:58.104Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
