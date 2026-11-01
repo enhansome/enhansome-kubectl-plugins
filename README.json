@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2115,
+            "stars": 2116,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2115,
+            "stars": 2116,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -1651,7 +1651,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1861,7 +1861,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:06:54Z",
+            "last_commit": "2026-11-01T01:12:31Z",
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
@@ -1889,7 +1889,7 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-31T01:06:54Z",
+            "last_commit": "2026-11-01T01:12:31Z",
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20069,
+            "stars": 20070,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20069,
+            "stars": 20070,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3609,7 +3609,7 @@
             "open_issues": 190,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1215,
+            "stars": 1216,
             "topics": [
               "cluster",
               "cncf",
@@ -5747,8 +5747,8 @@
                 "id": 158935768,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-03-10T14:44:11Z",
-                "open_issues": 2,
+                "last_commit": "2026-10-31T22:53:22Z",
+                "open_issues": 1,
                 "owner": "ripta",
                 "repo": "kubectl-plugins",
                 "stars": 2,
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T02:25:42.060Z",
+    "last_updated": "2026-11-01T02:15:02.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
