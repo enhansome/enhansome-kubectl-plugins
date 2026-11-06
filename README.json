@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2116,
+            "stars": 2117,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20080,
+            "stars": 20082,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20080,
+            "stars": 20082,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3407,7 +3407,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2674,
+            "stars": 2675,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3432,7 +3432,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2674,
+            "stars": 2675,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3894,7 +3894,7 @@
             "open_issues": 3,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3919,7 +3919,7 @@
             "open_issues": 3,
             "owner": "superbrothers",
             "repo": "kubectl-view-serviceaccount-kubeconfig-plugin",
-            "stars": 123,
+            "stars": 124,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4468,7 +4468,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:04:02Z",
+            "last_commit": "2026-11-05T21:51:17Z",
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4496,7 +4496,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:04:02Z",
+            "last_commit": "2026-11-05T21:51:17Z",
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4524,7 +4524,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:04:02Z",
+            "last_commit": "2026-11-05T21:51:17Z",
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4552,7 +4552,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-03T17:04:02Z",
+            "last_commit": "2026-11-05T21:51:17Z",
             "open_issues": 63,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T03:30:42.219Z",
+    "last_updated": "2026-11-06T03:27:19.908Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5808,7 +5808,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-28T19:09:24Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
       "stars": 1010,
