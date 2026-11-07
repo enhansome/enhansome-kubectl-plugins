@@ -79,7 +79,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -105,7 +105,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 923,
+            "stars": 924,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2117,
+            "stars": 2118,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2117,
+            "stars": 2118,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -335,7 +335,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "debugging",
               "kubectl",
@@ -363,7 +363,7 @@
             "open_issues": 68,
             "owner": "eldadru",
             "repo": "ksniff",
-            "stars": 3476,
+            "stars": 3477,
             "topics": [
               "debugging",
               "kubectl",
@@ -1865,7 +1865,7 @@
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2388,
+            "stars": 2389,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2388,
+            "stars": 2389,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20082,
+            "stars": 20085,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20082,
+            "stars": 20085,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4468,8 +4468,8 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:51:17Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-06T16:41:20Z",
+            "open_issues": 34,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
             "stars": 587,
@@ -4496,8 +4496,8 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:51:17Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-06T16:41:20Z",
+            "open_issues": 34,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
             "stars": 587,
@@ -4524,8 +4524,8 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:51:17Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-06T16:41:20Z",
+            "open_issues": 34,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
             "stars": 587,
@@ -4552,8 +4552,8 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-05T21:51:17Z",
-            "open_issues": 63,
+            "last_commit": "2026-11-06T16:41:20Z",
+            "open_issues": 34,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
             "stars": 587,
@@ -4732,7 +4732,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 428,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -4753,7 +4753,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 428,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T03:27:19.908Z",
+    "last_updated": "2026-11-07T02:50:34.579Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5808,7 +5808,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-28T19:09:24Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
       "stars": 1010,
