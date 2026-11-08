@@ -1,6 +1,6 @@
 # awesome-kubectl-plugins with stars
 
-A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 532,562 | 🐛 103 | 📅 2026-09-02 list.
+A curated list of awesome `kubectl` plugins inspired by the [awesome](https://github.com/sindresorhus/awesome) ⭐ 533,257 | 🐛 103 | 📅 2026-09-02 list.
 
 If you see a link that isn't a good fit, you can fix it by submitting a pull request to help improve the list. Likewise, if you'd like to add or fix something, click the [README.md](README.md) file to edit and submit a pull request.  Thank you!
 
@@ -17,7 +17,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Package Manager 📦
 
-* [Krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,049 | 🐛 24 | 🌐 Go | 📅 2026-10-31
+* [Krew](https://github.com/kubernetes-sigs/krew) ⭐ 7,049 | 🐛 24 | 🌐 Go | 📅 2026-11-07
 
 ## Resources
 
@@ -35,7 +35,7 @@ If you see a link that isn't a good fit, you can fix it by submitting a pull req
 
 ## Use `awesome-kubectl-plugins` as a Custom Index via Krew
 
-A notable feature `custom index` was added in `krew's` [v0.4.0](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.0) ⭐ 7,049 | 🐛 24 | 🌐 Go | 📅 2026-10-31 release. This means you can now use custom indexes of your own to install the plugins via `krew`.
+A notable feature `custom index` was added in `krew's` [v0.4.0](https://github.com/kubernetes-sigs/krew/releases/tag/v0.4.0) ⭐ 7,049 | 🐛 24 | 🌐 Go | 📅 2026-11-07 release. This means you can now use custom indexes of your own to install the plugins via `krew`.
 
 Was you plugin not accepted in default `krew-index` due to some reasons? No issues, you can still use that plugin manifest in your custom index and install it via krew.
 
@@ -190,4 +190,4 @@ Now, `awesome-kubectl-plugins` is not just a list of awesome kubectl plugins (wi
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._
