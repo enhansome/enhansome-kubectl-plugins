@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2118,
+            "stars": 2119,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2118,
+            "stars": 2119,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20090,
+            "stars": 20102,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20090,
+            "stars": 20102,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4732,7 +4732,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 430,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -4753,7 +4753,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 430,
+            "stars": 432,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -5570,7 +5570,7 @@
             "id": 1423710472,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T20:08:23Z",
+            "last_commit": "2026-11-11T23:15:06Z",
             "open_issues": 0,
             "owner": "Shoalcheck",
             "repo": "shoalcheck",
@@ -5603,7 +5603,7 @@
             "id": 1423710472,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-29T20:08:23Z",
+            "last_commit": "2026-11-11T23:15:06Z",
             "open_issues": 0,
             "owner": "Shoalcheck",
             "repo": "shoalcheck",
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T02:49:52.355Z",
+    "last_updated": "2026-11-12T03:49:46.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
