@@ -713,7 +713,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "df",
               "krew-plugin",
@@ -742,7 +742,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 510,
+            "stars": 509,
             "topics": [
               "df",
               "krew-plugin",
@@ -915,7 +915,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1837,
+            "stars": 1836,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -944,7 +944,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1837,
+            "stars": 1836,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20103,
+            "stars": 20104,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20103,
+            "stars": 20104,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -5799,7 +5799,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T05:05:23.591Z",
+    "last_updated": "2026-11-18T04:25:28.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5808,7 +5808,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-10-28T19:09:24Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
       "stars": 1010,
