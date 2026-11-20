@@ -79,7 +79,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -105,7 +105,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -131,7 +131,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2121,
+            "stars": 2119,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -156,7 +156,7 @@
             "open_issues": 24,
             "owner": "itaysk",
             "repo": "kubectl-neat",
-            "stars": 2121,
+            "stars": 2119,
             "topics": [
               "hacktoberfest",
               "kubectl-plugin",
@@ -713,7 +713,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "df",
               "krew-plugin",
@@ -742,7 +742,7 @@
             "open_issues": 14,
             "owner": "yashbhutwala",
             "repo": "kubectl-df-pv",
-            "stars": 509,
+            "stars": 508,
             "topics": [
               "df",
               "krew-plugin",
@@ -821,7 +821,7 @@
             "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -842,7 +842,7 @@
             "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -915,7 +915,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1835,
+            "stars": 1834,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -944,7 +944,7 @@
             "open_issues": 21,
             "owner": "kvaps",
             "repo": "kubectl-node-shell",
-            "stars": 1835,
+            "stars": 1834,
             "topics": [
               "kubectl",
               "kubectl-enter",
@@ -1323,7 +1323,7 @@
             "open_issues": 10,
             "owner": "ernoaapa",
             "repo": "kubectl-warp",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "golang",
               "kubectl",
@@ -1350,7 +1350,7 @@
             "open_issues": 10,
             "owner": "ernoaapa",
             "repo": "kubectl-warp",
-            "stars": 314,
+            "stars": 313,
             "topics": [
               "golang",
               "kubectl",
@@ -1651,7 +1651,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1676,7 +1676,7 @@
             "open_issues": 19,
             "owner": "ahmetb",
             "repo": "kubectl-tree",
-            "stars": 3449,
+            "stars": 3450,
             "topics": [
               "kubectl",
               "kubectl-plugin",
@@ -1865,7 +1865,7 @@
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2398,
+            "stars": 2399,
             "topics": [
               "golang",
               "kubectl",
@@ -1893,7 +1893,7 @@
             "open_issues": 126,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2398,
+            "stars": 2399,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20108,
+            "stars": 20115,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20108,
+            "stars": 20115,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -3407,7 +3407,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2678,
+            "stars": 2677,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3432,7 +3432,7 @@
             "open_issues": 52,
             "owner": "robscott",
             "repo": "kube-capacity",
-            "stars": 2678,
+            "stars": 2677,
             "topics": [
               "kubernetes",
               "resource-management",
@@ -3609,7 +3609,7 @@
             "open_issues": 190,
             "owner": "kudobuilder",
             "repo": "kudo",
-            "stars": 1215,
+            "stars": 1214,
             "topics": [
               "cluster",
               "cncf",
@@ -4052,7 +4052,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "config",
               "kubeconfig",
@@ -4081,7 +4081,7 @@
             "open_issues": 9,
             "owner": "corneliusweig",
             "repo": "konfig",
-            "stars": 391,
+            "stars": 390,
             "topics": [
               "config",
               "kubeconfig",
@@ -4468,7 +4468,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:37:16Z",
+            "last_commit": "2026-11-20T02:33:33Z",
             "open_issues": 37,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4496,7 +4496,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:37:16Z",
+            "last_commit": "2026-11-20T02:33:33Z",
             "open_issues": 37,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4524,7 +4524,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:37:16Z",
+            "last_commit": "2026-11-20T02:33:33Z",
             "open_issues": 37,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4552,7 +4552,7 @@
             "id": 195894190,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T23:37:16Z",
+            "last_commit": "2026-11-20T02:33:33Z",
             "open_issues": 37,
             "owner": "replicatedhq",
             "repo": "troubleshoot",
@@ -4732,7 +4732,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 435,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -4753,7 +4753,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 435,
+            "stars": 434,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -4970,7 +4970,7 @@
             "open_issues": 59,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "hacktoberfest",
               "kubernetes",
@@ -4997,7 +4997,7 @@
             "open_issues": 59,
             "owner": "konveyor",
             "repo": "move2kube",
-            "stars": 413,
+            "stars": 412,
             "topics": [
               "hacktoberfest",
               "kubernetes",
@@ -5218,7 +5218,7 @@
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "find",
               "krew",
@@ -5245,7 +5245,7 @@
             "open_issues": 0,
             "owner": "alikhil",
             "repo": "kubectl-find",
-            "stars": 105,
+            "stars": 106,
             "topics": [
               "find",
               "krew",
@@ -5625,6 +5625,70 @@
           "first_seen": "2026-10-29T02:28:05.813Z"
         },
         {
+          "node_type": "item",
+          "title": "kubectl audit-tenant",
+          "description": "BodhiSatvik/kubectl-audit-tenant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Prove a Kubernetes namespace meets a tenant governance baseline. Read-only kubectl plugin.",
+            "homepage": "https://artifacthub.io/packages/krew/audit-tenant/audit-tenant",
+            "id": 1435065628,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-19T17:47:59Z",
+            "open_issues": 1,
+            "owner": "BodhiSatvik",
+            "repo": "kubectl-audit-tenant",
+            "stars": 0,
+            "topics": [
+              "capsule",
+              "krew",
+              "kubectl-plugin",
+              "kubernetes",
+              "kyverno",
+              "multi-tenancy",
+              "platform-engineering",
+              "pod-security",
+              "rbac",
+              "security"
+            ]
+          },
+          "first_seen": "2026-11-20T03:59:51.899Z"
+        },
+        {
+          "node_type": "item",
+          "title": "kubectl-audit-tenant",
+          "description": "BodhiSatvik/kubectl-audit-tenant",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Prove a Kubernetes namespace meets a tenant governance baseline. Read-only kubectl plugin.",
+            "homepage": "https://artifacthub.io/packages/krew/audit-tenant/audit-tenant",
+            "id": 1435065628,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-11-19T17:47:59Z",
+            "open_issues": 1,
+            "owner": "BodhiSatvik",
+            "repo": "kubectl-audit-tenant",
+            "stars": 0,
+            "topics": [
+              "capsule",
+              "krew",
+              "kubectl-plugin",
+              "kubernetes",
+              "kyverno",
+              "multi-tenancy",
+              "platform-engineering",
+              "pod-security",
+              "rbac",
+              "security"
+            ]
+          },
+          "first_seen": "2026-11-20T03:59:51.899Z"
+        },
+        {
           "children": [
             {
               "node_type": "item",
@@ -5799,7 +5863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T04:13:49.933Z",
+    "last_updated": "2026-11-20T03:59:51.899Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
@@ -5807,8 +5871,8 @@
       "id": 207302304,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-10-28T19:09:24Z",
-      "open_issues": 5,
+      "last_commit": "2026-11-20T03:17:44Z",
+      "open_issues": 4,
       "owner": "ishantanu",
       "repo": "awesome-kubectl-plugins",
       "stars": 1010,
@@ -5819,7 +5883,7 @@
         "kubernetes"
       ]
     },
-    "original_repository_sha": "058a0f73e337b193266be3b6c19defcd50340d42",
+    "original_repository_sha": "bc6f49f71d2f641e25e7cdb6012ba8c6f8fd59da",
     "enhanced_repository": "enhansome/enhansome-kubectl-plugins",
     "enhanced_repository_description": null,
     "title": "awesome-kubectl-plugins with stars"
