@@ -1861,11 +1861,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T00:12:40Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-20T16:48:34Z",
+            "open_issues": 128,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2399,
+            "stars": 2400,
             "topics": [
               "golang",
               "kubectl",
@@ -1889,11 +1889,11 @@
             "id": 126163087,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T00:12:40Z",
-            "open_issues": 126,
+            "last_commit": "2026-11-20T16:48:34Z",
+            "open_issues": 128,
             "owner": "int128",
             "repo": "kubelogin",
-            "stars": 2399,
+            "stars": 2400,
             "topics": [
               "golang",
               "kubectl",
@@ -2569,7 +2569,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20115,
+            "stars": 20123,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -2595,7 +2595,7 @@
             "open_issues": 41,
             "owner": "ahmetb",
             "repo": "kubectx",
-            "stars": 20115,
+            "stars": 20123,
             "topics": [
               "kubectl",
               "kubectl-plugins",
@@ -4732,7 +4732,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -4753,7 +4753,7 @@
             "open_issues": 0,
             "owner": "elsesiy",
             "repo": "kubectl-view-secret",
-            "stars": 434,
+            "stars": 435,
             "topics": []
           },
           "first_seen": "2026-08-28T06:56:43.146Z"
@@ -5636,8 +5636,8 @@
             "id": 1435065628,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T17:47:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-20T14:35:39Z",
+            "open_issues": 0,
             "owner": "BodhiSatvik",
             "repo": "kubectl-audit-tenant",
             "stars": 0,
@@ -5668,8 +5668,8 @@
             "id": 1435065628,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-19T17:47:59Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-20T14:35:39Z",
+            "open_issues": 0,
             "owner": "BodhiSatvik",
             "repo": "kubectl-audit-tenant",
             "stars": 0,
@@ -5863,7 +5863,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T03:59:51.899Z",
+    "last_updated": "2026-11-21T03:59:26.143Z",
     "original_repository_info": {
       "archived": false,
       "description": "Curated list of kubectl plugins",
